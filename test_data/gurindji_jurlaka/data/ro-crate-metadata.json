@@ -1,0 +1,1741 @@
+{
+  "@context": [
+    "https://w3id.org/ro/crate/1.1/context",
+    {
+      "@vocab": "http://schema.org/",
+      "ldac": "https://w3id.org/ldac/terms#",
+      "custom": "arcp://name,custom/terms#"
+    }
+  ],
+  "@graph": [
+    {
+      "@id": "ro-crate-metadata.json",
+      "@type": "CreativeWork",
+      "identifier": "ro-crate-metadata.json",
+      "about": {
+        "@id": "./"
+      }
+    },
+    {
+      "@id": "./",
+      "@type": [
+        "Dataset",
+        "RepositoryCollection"
+      ],
+      "name": "Jurlaka",
+      "description": "Gurindji birds",
+      "isRef_author": "",
+      "isRef_publisher": "",
+      "pcdm:hasMember": [
+        {
+          "@id": "#wintuk"
+        },
+        {
+          "@id": "#yiparrartu"
+        },
+        {
+          "@id": "#jamut"
+        },
+        {
+          "@id": "#jikirrij"
+        },
+        {
+          "@id": "#jiwayurru"
+        },
+        {
+          "@id": "#karrkany"
+        },
+        {
+          "@id": "#niinii"
+        },
+        {
+          "@id": "#pangarra"
+        },
+        {
+          "@id": "#kawulnga"
+        },
+        {
+          "@id": "#kumurlawurta"
+        },
+        {
+          "@id": "#tuwakin"
+        },
+        {
+          "@id": "#kurtakurtaka"
+        },
+        {
+          "@id": "#kurrarntal"
+        },
+        {
+          "@id": "#kulyjara"
+        },
+        {
+          "@id": "#karrangkarrang"
+        },
+        {
+          "@id": "#tikirrija"
+        },
+        {
+          "@id": "#warli"
+        },
+        {
+          "@id": "#warlawurru"
+        },
+        {
+          "@id": "#janparriman"
+        },
+        {
+          "@id": "#walukpin"
+        }
+      ]
+    },
+    {
+      "@id": "#wintuk",
+      "@type": "RepositoryObject",
+      "name": "wintuk",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Bush Stone Curlew",
+      "custom:sentence": "Wankaj nyila-ma jurlak-ma. Nyantu-ma yanana ngu wurinykarra-la marnana ngu, murluwu-ma wawurru-la-ma. Yalanginyi-ma waninyana na. Jurrkjurrkkarra na karru-ma-nga. Wal kuyangka na, nyamu-lu ngarturr-jawung-kulu-ma kurru-ma nyangana yijarni ngulu jurlak kayi panana, karu-ngku-ma yalungku-ma, nyamu-ma born wanku.",
+      "custom:sentenceTranslation": "This bird is dangerous. It walks along whistling in the scrub, then it falls over and convulses. When it gets up, that's when, if expectant mothers hear it, their babies will have fits when they're born.",
+      "custom:photographerName": "Tom and Marie Tarrant",
+      "custom:scientificName": "Burhinus grallarius",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/Wintuk_TT.jpg"
+      },
+      "custom:callAudio": {
+        "@id": "files/audio/names/wintuk_VW.mp3"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/wintuk_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/Wintuk_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/Wintuk_TT.jpg"
+        },
+        {
+          "@id": "files/audio/names/wintuk_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/Wintuk_VW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#yiparrartu",
+      "@type": "RepositoryObject",
+      "name": "yiparrartu",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Emu",
+      "custom:sentence": "Nyawa yiparrartu kula-rnalu ngarnani karu-ngku-ma Wave Hill-la. \"Mamurung kula-nta ngarlu! Ngaja-nyjurra kayarnana nyanuny-ju jamana-lu. Ngurnalu ngarlu ngantipa-rni jangkarni-lu-rni,\" kuya nguwuliny marnani.",
+      "custom:sentenceTranslation": "We were never allowed to eat emu as children on Wave Hill Station. \"It's too dangerous for you mob to eat! If you do, it might kick you with its feet. Only us adults can eat it.\" That's what we were told.",
+      "custom:photographerName": "Ian Montgomery",
+      "custom:scientificName": "Dromaius novaehollandiae",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/Yiparrartu_IM1.jpg"
+      },
+      "custom:callAudio": {
+        "@id": "files/audio/calls/42_Emu_(deep_grunts_and_drumming).mp3"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/yiparrartu_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/yiparrartu_vw.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/Yiparrartu_IM1.jpg"
+        },
+        {
+          "@id": "files/audio/calls/42_Emu_(deep_grunts_and_drumming).mp3"
+        },
+        {
+          "@id": "files/audio/names/yiparrartu_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/yiparrartu_vw.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#jamut",
+      "@type": "RepositoryObject",
+      "name": "jamut",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Australian Bustard or Bush Turkey",
+      "custom:sentence": "Pirlpirlji ngamanpurru ngarnana murlungku-ma jamut-tu-ma. Kula ngalu yiparrartu karu-yawung-kulu-ma, ngaja karrinyana ngirlkirri wankaj karu-ma. Kamparrijang-kulu marnani ngungantipangulu yurrkkarra na ngantipanguny na jaju nyampa ngunyarri.",
+      "custom:sentenceTranslation": "Grasshoppers and conkerberries are the favourite foods of the bush turkey. Pregnant women are not allowed to eat bush turkey, or the baby will born with a sore throat. That's what our grandmothers and great-grandmothers told us.",
+      "custom:photographerName": "Bruce Doran",
+      "custom:scientificName": "Ardeotis australis",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/Jamut_BD.jpg"
+      },
+      "custom:callAudio": {
+        "@id": "files/audio/calls/4_Australian_Bustard_('huff'_and_roar).mp3"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/jamut_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/jamut_vw.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/Jamut_BD.jpg"
+        },
+        {
+          "@id": "files/audio/calls/4_Australian_Bustard_('huff'_and_roar).mp3"
+        },
+        {
+          "@id": "files/audio/names/jamut_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/jamut_vw.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#jikirrij",
+      "@type": "RepositoryObject",
+      "name": "jikirrij",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Willy Wagtail",
+      "custom:sentence": "Nyamu-n-nga parru tampang nyila-ma jikirrij-ma, ngamayi-ma ngu tampang karru kuya. Kuyaji na nyawa-ma. Marnani ngulu-rla, nyawa-wu-ma jikirrij-ku-ma. Nomo parra, kuya, ngaja ngamayi ngaji ngaja-ngkulu tampang karru. ",
+      "custom:sentenceTranslation": "Your mother will die if you kill a willy wagtail. That's what they used to say about the willy-wagtail. \"Don't kill it, or your mother and father might die!\"",
+      "custom:photographerName": "Barry McDonald",
+      "custom:scientificName": "Rhipidura leucophrys",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/Jikirrij_BM.jpg"
+      },
+      "custom:callAudio": {
+        "@id": "files/audio/calls/18_Willie_Wagtail_(leucophrys)(song___chitter).mp3"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/jikirrij_AC.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/jikirrij_vw.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/Jikirrij_BM.jpg"
+        },
+        {
+          "@id": "files/audio/calls/18_Willie_Wagtail_(leucophrys)(song___chitter).mp3"
+        },
+        {
+          "@id": "files/audio/names/jikirrij_AC.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/jikirrij_vw.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#jiwayurru",
+      "@type": "RepositoryObject",
+      "name": "jiwayurru",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Bowerbird or Stealing bird",
+      "custom:sentence": "Manana ngu murlukun, needle-ma nyampa-ma everything warrwarrkuj jiwawurru-lu. Yuwanana ngu nyanuny-ja ngurra-ngka. Jiwayurru-ma nyila-ma jawurrapkaji ngulu tal panana.",
+      "custom:sentenceTranslation": "This bird takes glass, needles or anything shiny and puts them in its nest. We call this bird a 'stealing bird'.",
+      "custom:photographerName": "Bob Gosford",
+      "custom:scientificName": "Chalmydera nuchalis",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/Jiwayurru_BG.jpg"
+      },
+      "custom:callAudio": {
+        "@id": "files/audio/calls/29_Western_Bowerbird_(churrs_at_bower).mp3"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/jiwayurru_VW1.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/jiwawurru_vw.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/Jiwayurru_BG.jpg"
+        },
+        {
+          "@id": "files/audio/calls/29_Western_Bowerbird_(churrs_at_bower).mp3"
+        },
+        {
+          "@id": "files/audio/names/jiwayurru_VW1.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/jiwawurru_vw.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#karrkany",
+      "@type": "RepositoryObject",
+      "name": "karrkany",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Black Kite or Chickenhawk",
+      "custom:sentence": "Karrkany-ju-ma ngumpit nguyina panana kurnpirlirn-pirrji. Karnti ngurla-nyanta nyanuny puya-ngarna yuwanana. Nyamu-wa nyila-ma ngumpit-ma panana karrkany-ju-ma karrinyana nyangunyangu na.",
+      "custom:sentenceTranslation": "This bird makes Aboriginal people into traditional healers. It does this by throwing a stick at someone's body. When bird hits the person with a stick, they become a traditional healer or 'clever man'.",
+      "custom:photographerName": "Bob Gosford",
+      "custom:scientificName": "Milvus migrans",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/Karrkany_BG.jpg"
+      },
+      "custom:callAudio": {
+        "@id": "files/audio/calls/27_Black_Kite_(adult_-_trill-whistle)).mp3"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/karrkany_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/karrkany_vw.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/Karrkany_BG.jpg"
+        },
+        {
+          "@id": "files/audio/calls/27_Black_Kite_(adult_-_trill-whistle)).mp3"
+        },
+        {
+          "@id": "files/audio/names/karrkany_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/karrkany_vw.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#niinii",
+      "@type": "RepositoryObject",
+      "name": "niinii",
+      "alternateName": "jiika",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Zebra finch",
+      "custom:sentence": "Nyamu-lu-nga wanku yirrpkarra-ma kuya-ma wal ngurnalu kurru nyangana. Maiti kaja-ngarna yu nou. Ngapuku-murlung-kula. \"Warta niinii-walija nyila nyila. Ngulu yirrpkarra waninyana na niinii-ma, kurlpapkurlpap. Maiti ngawa-ngka. \"Ngawa-wu nyangku-rla majka jeya, kuya-ma, \"Karrap yijarni nyawa-ma. Billabong ngawa-yawung.",
+      "custom:sentenceTranslation": "When they flock together, we can hear them. They can help you if you're in the bush feeling thirsty. \"Hey there's some finches there!\" Where they flock together, that's where you should look for water. That's the place - look there. There will be a billabong full of water.",
+      "custom:photographerName": "Bob Gosford",
+      "custom:scientificName": "Poephila guttata",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/Niinii_BG.jpg"
+      },
+      "custom:callAudio": {
+        "@id": "files/audio/calls/15_Zebra_Finch_(flock_near_waterhole).mp3"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/niinii_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/Niinii_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/Niinii_BG.jpg"
+        },
+        {
+          "@id": "files/audio/calls/15_Zebra_Finch_(flock_near_waterhole).mp3"
+        },
+        {
+          "@id": "files/audio/names/niinii_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/Niinii_VW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#pangarra",
+      "@type": "RepositoryObject",
+      "name": "pangarra",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Corella",
+      "custom:sentence": "Pangarra-ma marnana yakakyakakkarra. Maitbi ngumpit yanana ngulu wuyurrunkarra-nginyi. Nguyina na kurru-ma nyangana. Nyantu na tiwu yanana kamparra yakakyakakkarra. Lintarr na nguyina marnana. \"Nyila nyila kurru nyangka-lu yakakyakakkarra pangarra. Maitbi ngulu yanana ngumpit, kuya, wuyurrunkarra-nginyi.",
+      "custom:sentenceTranslation": "The corella calls out \"Yakak yakak!\" for example when people are returning from fishing. We hear it as it flies ahead of them calling out. It signals us that way. \"Hey listen to the corella calling. Maybe they're coming back from fishing!\"",
+      "custom:photographerName": "Ian Montgomery",
+      "custom:scientificName": "Cacatua sanguinea",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/Pangarra_IM1.jpg"
+      },
+      "custom:callAudio": {
+        "@id": "files/audio/calls/44_Little_Corella_(alarm_screech_and_'corella'_calls).mp3"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/pangarra_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/Pangarra_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/Pangarra_IM1.jpg"
+        },
+        {
+          "@id": "files/audio/calls/44_Little_Corella_(alarm_screech_and_'corella'_calls).mp3"
+        },
+        {
+          "@id": "files/audio/names/pangarra_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/Pangarra_VW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#kawulnga",
+      "@type": "RepositoryObject",
+      "name": "kawulnga",
+      "alternateName": "parrakparrak",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Nankeen Night Heron",
+      "custom:sentence": "Kawulnga-ma marnana, \"Kawu-kawu!\" Lintarr na nguyina marnana nyamu wankaj ngumpit yanana.",
+      "custom:sentenceTranslation": "This bird calls out \"Kawu-kawu!\" When you hear it calling, it is signalling that a dangerous kidney fat man from the north is approaching.",
+      "custom:photographerName": "Ian Morris",
+      "custom:scientificName": "Nictocorax caledonicus",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/Kawulnga2IM2.jpg"
+      },
+      "custom:callAudio": {
+        "@id": "files/audio/calls/74_Nankeen_Night-Heron_('kyok'_-_colony).mp3"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/kawulnga_SO.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/names/kawulnga_SO.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/Kawulnga2IM2.jpg"
+        },
+        {
+          "@id": "files/audio/calls/74_Nankeen_Night-Heron_('kyok'_-_colony).mp3"
+        },
+        {
+          "@id": "files/audio/names/kawulnga_SO.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#kumurlawurta",
+      "@type": "RepositoryObject",
+      "name": "kumurlawurta",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Magpie",
+      "custom:sentence": "Nyawa-ma kumurlawurta lintarr ngu marnana. Ngaja-n kurru nyangku kaputkaput jarrakap-jirri-ma. Kumurlawurta nyawa-ma marnana ngu lintarr nyampa-kurra-wayin? Maiti lintarr-waji nyawa-ma. Lintarr nguyina marnani kamparrijang-kulu kurnka-wu.",
+      "custom:sentenceTranslation": "Magpies are messengers. You often hear them calling out early in the morning. That's the magpies signalling bad news. In the old days they used to bring us news of someone's death.",
+      "custom:photographerName": "Bob Gosford",
+      "custom:scientificName": "Gymnorhina tibicen",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/Kumurlawurta_BG.jpg"
+      },
+      "custom:callAudio": {
+        "@id": "files/audio/calls/7_Australian_Magpie_(terraereginae)(song___alarm).mp3"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/kumurlawurta_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/Kumurlawurta_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/Kumurlawurta_BG.jpg"
+        },
+        {
+          "@id": "files/audio/calls/7_Australian_Magpie_(terraereginae)(song___alarm).mp3"
+        },
+        {
+          "@id": "files/audio/names/kumurlawurta_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/Kumurlawurta_VW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#tuwakin",
+      "@type": "RepositoryObject",
+      "name": "tuwakin",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "White-gaped honey eater",
+      "custom:sentence": "Tuwakin-ma pulngayit-ta-ma marnana ngurla muying-ku. Muying nyamu-n nyangana kurnkawurluk.",
+      "custom:sentenceTranslation": "When it's flood time, this bird calls out to let us know that the black berries are ripe.",
+      "custom:photographerName": "Bob Gosford",
+      "custom:scientificName": "Lichenostomus unicolor",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/Tuwakin_BG.jpeg"
+      },
+      "custom:callAudio": {
+        "@id": "files/audio/sentences/tuwakin_vw.mp3"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/sentences/tuwakin_vw.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/tuwakin_vw.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/Tuwakin_BG.jpeg"
+        },
+        {
+          "@id": "files/audio/sentences/tuwakin_vw.mp3"
+        },
+        {
+          "@id": [
+            "files/audio/calls/27_Black_Kite_(adult_-_trill-whistle)).mp3"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "#kurtakurtaka",
+      "@type": "RepositoryObject",
+      "name": "kurtakurtaka",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Channel-billed cuckoo or Christmas bird",
+      "custom:sentence": "Kurtakurtaka nganta marnana nyawa-ma Christmas time-ma, \"Ah Christmas-ku na marnana nyila-ma.\" Kuya-rnangulu kurru nyangani kamparrijang-kulu marlurluka-lu-ma kajijirri-lu-ma. Christmas nyila-ma lintarr ngurla marnana. ",
+      "custom:sentenceTranslation": "The channel-billed cuckoo sings when Christmas is near. \"Ah it's singing for Christmas!\" That's what the men and women used to say in the old days. This bird lets us know that Christmas is coming.",
+      "custom:photographerName": "Steve Parish",
+      "custom:scientificName": "Scythops novaehollandiae",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/Kurtakurtaka_SP.jpg"
+      },
+      "custom:callAudio": {
+        "@id": "files/audio/calls/6_Channel-billed_Cuckoo_('awk'_calls_-_two_birds_perched).mp3"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/kurtakurtaka_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/Kurtakurtaka_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/Kurtakurtaka_SP.jpg"
+        },
+        {
+          "@id": "files/audio/calls/6_Channel-billed_Cuckoo_('awk'_calls_-_two_birds_perched).mp3"
+        },
+        {
+          "@id": "files/audio/names/kurtakurtaka_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/Kurtakurtaka_VW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#kurrarntal",
+      "@type": "RepositoryObject",
+      "name": "kurrarntal",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Brolga",
+      "custom:sentence": "Kurrarntal-lu warrkap wanyjarnana yipu-ngka-ma. Yipu-wu marrunyu. Nyanuny-ku mangarri-wu kinyuwurra.",
+      "custom:sentenceTranslation": "The brolga dances during wet season. They are always happy when it is raining. Their favourite food is bush onions.",
+      "custom:photographerName": "Ian Montgomery",
+      "custom:scientificName": "Grus rubicunda",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/Kurrarntal_IM1.jpg"
+      },
+      "custom:callAudio": {
+        "@id": "files/audio/calls/64_Brolga_(individual_flying).mp3"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/kurrarntal_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/Kurrarntal_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/Kurrarntal_IM1.jpg"
+        },
+        {
+          "@id": "files/audio/calls/64_Brolga_(individual_flying).mp3"
+        },
+        {
+          "@id": "files/audio/names/kurrarntal_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/Kurrarntal_VW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#kulyjara",
+      "@type": "RepositoryObject",
+      "name": "kulyjara",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Diamond Dove",
+      "custom:sentence": "Pinka-ka nyila tamurung ngulu ngarnana jiti. Murluwu-ma-rla mangarri-ma jiti tamurung.",
+      "custom:sentenceTranslation": "This bird likes to eat whole seeds which grow in river areas. These seeds, called tamurung, are its favourite food. ",
+      "custom:photographerName": "Tom and Marie Tarrant",
+      "custom:scientificName": "Geopelia cuneata",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/Kulyjara_TT.jpg"
+      },
+      "custom:callAudio": {
+        "@id": "files/audio/calls/98_Peaceful_Dove_('coo_a_luk').mp3"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/kulyjara_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/Kulyjara_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/Kulyjara_TT.jpg"
+        },
+        {
+          "@id": "files/audio/calls/98_Peaceful_Dove_('coo_a_luk').mp3"
+        },
+        {
+          "@id": "files/audio/names/kulyjara_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/Kulyjara_VW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#karrangkarrang",
+      "@type": "RepositoryObject",
+      "name": "karrangkarrang",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Darter or Diver Duck",
+      "custom:sentence": "Pinka-ngarna-ma nyila-ma karrangkarrang-ma. Tarap waninyana na nyinypuruk kaninyjal. Ngurla nyangana yawu manana. Nyawa-ma kankulupala-yirri yanana pakara-la yawu-ma. Yawu na jaartkarra nyangana.",
+      "custom:sentenceTranslation": "This bird lives in river areas. It dives deep underwater, looks around for a fish and grabs it. It then brings the fish to the surface and eats it. ",
+      "custom:photographerName": "Ian Morris",
+      "custom:scientificName": "Anhinga melanogaster",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/Karrangkarrang_IM2.jpeg"
+      },
+      "custom:callAudio": {
+        "@id": "files/audio/names/karrangkarrang_VW.mp3"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/karrangkarrang_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/karrangkarrang_vd.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/Karrangkarrang_IM2.jpeg"
+        },
+        {
+          "@id": "files/audio/names/karrangkarrang_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/karrangkarrang_vd.mp3"
+        },
+        {
+          "@id": [
+            "files/audio/calls/27_Black_Kite_(adult_-_trill-whistle)).mp3"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "#tikirrija",
+      "@type": "RepositoryObject",
+      "name": "tikirrija",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Red-backed kingfisher",
+      "custom:sentence": "Ngu ngarnana yirrpan tamarra-nginyi.",
+      "custom:sentenceTranslation": "This bird eats termites from termite mounds.",
+      "custom:photographerName": "Bob Gosford",
+      "custom:scientificName": "Todiramphus pyrrhopygia",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/Tikirrija_BG.jpg"
+      },
+      "custom:callAudio": {
+        "@id": "files/audio/calls/17_Red-backed_Kingfisher_('keeurp'_-_advertising_call).mp3"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/tikirrija_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/tikirrija_vw.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/Tikirrija_BG.jpg"
+        },
+        {
+          "@id": "files/audio/calls/17_Red-backed_Kingfisher_('keeurp'_-_advertising_call).mp3"
+        },
+        {
+          "@id": "files/audio/names/tikirrija_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/tikirrija_vw.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#warli",
+      "@type": "RepositoryObject",
+      "name": "warli",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Spotted harrier",
+      "custom:sentence": "Warli-ngku ngu ngarnana wari.",
+      "custom:sentenceTranslation": "This bird likes to eat snakes. ",
+      "custom:photographerName": "Steve Parish",
+      "custom:scientificName": "Circus assimilis",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/Warli_SP.jpg"
+      },
+      "custom:callAudio": {
+        "@id": "files/audio/names/warli_VW.mp3"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/warli_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/names/warli_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/Warli_SP.jpg"
+        },
+        {
+          "@id": "files/audio/names/warli_VW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#warlawurru",
+      "@type": "RepositoryObject",
+      "name": "warlawurru",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Wedge-tailed Eagle",
+      "custom:sentence": "Ngarin nyanuny - jamut, wirnangpurru. Murlungku-ma kankula ngurla paraj pungana jamut wirnangpurru kanyjupal-ma. Jiwawuwarra manana murlungku panana tampang. ",
+      "custom:sentenceTranslation": "The eagle eats bush turkeys and kangaroos. It can see its prey from high in the sky. It swoops down and kills them.",
+      "custom:photographerName": "Bob Gosford",
+      "custom:scientificName": "Aquila audax",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/Warlawurru_BG.jpg"
+      },
+      "custom:callAudio": {
+        "@id": "files/audio/calls/23_Wedge-tailed_Eagle_(calling_overhead).mp3"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/warlawurru_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/Warlawurru_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/Warlawurru_BG.jpg"
+        },
+        {
+          "@id": "files/audio/calls/23_Wedge-tailed_Eagle_(calling_overhead).mp3"
+        },
+        {
+          "@id": "files/audio/names/warlawurru_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/Warlawurru_VW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#janparriman",
+      "@type": "RepositoryObject",
+      "name": "janparriman",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Black-faced cuckoo shrike",
+      "custom:sentence": "Nyawa-ma janparriman ngu ngarnana wanyarri yirna.",
+      "custom:sentenceTranslation": "The favourite food of the black-faced cuckoo shrike is flowers from bauhinias.",
+      "custom:photographerName": "Ian Montgomery",
+      "custom:scientificName": "Coracina novaehollandiae",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/Janparriman_IM1.jpg"
+      },
+      "custom:callAudio": {
+        "@id": "files/audio/calls/36_Black-faced_Cuckoo-shrike(melanops)(churring_calls_-_interact.mp3"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/janparriman_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/names/warli_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/Janparriman_IM1.jpg"
+        },
+        {
+          "@id": "files/audio/calls/36_Black-faced_Cuckoo-shrike(melanops)(churring_calls_-_interact.mp3"
+        },
+        {
+          "@id": "files/audio/names/janparriman_VW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#walukpin",
+      "@type": "RepositoryObject",
+      "name": "walukpin",
+      "alternateName": "tirrak",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Red-tailed black cockatoo",
+      "custom:sentence": "Walukpin tirrak partiki-wu-ngarnu-waji. Partiki ngu ngarnana murlungku-ma jurlak-kulu-ma. Karnti-ka-wu partiki-la-wu partartajkarra nyamu-lu-rla karrinyana ngulu ngarnana janypalk partiki na.",
+      "custom:sentenceTranslation": "Partiki nuts are the favourite food of red-tailed black cockatoos. They like sitting up in trees eating the ripe nuts.",
+      "custom:photographerName": "Steve Parish",
+      "custom:scientificName": "Calyptorhynchus banksii",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/Walukpin_SP.jpg"
+      },
+      "custom:callAudio": {
+        "@id": "files/audio/calls/38_Red-tailed_Black-Cockatoo_(adults_and_juveniles).mp3"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/walukpin_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/Warlukpin_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/Walukpin_SP.jpg"
+        },
+        {
+          "@id": "files/audio/calls/38_Red-tailed_Black-Cockatoo_(adults_and_juveniles).mp3"
+        },
+        {
+          "@id": "files/audio/names/walukpin_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/Warlukpin_VW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#VioletWadrill",
+      "name": "Violet Wadrill",
+      "description": "Violet Wadrill was born in 1942 and is a traditional owner of Jutamaliny. She has worked extensively with linguists on the documentation of Gurindji language and culture, including a dictionary, ethnobiology and a number of volumes of collected texts including 'Yijarni: True Stories from Gurindji Country' (2016). She also paints her traditional country, Jutamaliny, and makes tradition- al artefacts such as coolamons and nulla nullas. Her work demonstrates a passion for the maintenance of Gurindji traditions. Violet was a finalist in the ICTV Australian Digital Storytelling Awards 2018 and VIP guest speaker at the NT Writers Festival in 2019. She won the 2024 Prime Minister's Literary Award for Children's Literature for 'Tamarra: A Story of Termites on Gurindji Country' (2024). ",
+      "@type": "Thing"
+    },
+    {
+      "@id": "files/images/Wintuk_TT.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#wintuk"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/wintuk_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#wintuk"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/Wintuk_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#wintuk"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/Yiparrartu_IM1.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#yiparrartu"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/calls/42_Emu_(deep_grunts_and_drumming).mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#yiparrartu"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/yiparrartu_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#yiparrartu"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/yiparrartu_vw.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#yiparrartu"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/Jamut_BD.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#jamut"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/calls/4_Australian_Bustard_('huff'_and_roar).mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#jamut"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/jamut_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#jamut"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/jamut_vw.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#jamut"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/Jikirrij_BM.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#jikirrij"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/calls/18_Willie_Wagtail_(leucophrys)(song___chitter).mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#jikirrij"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/jikirrij_AC.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#jikirrij"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/jikirrij_vw.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#jikirrij"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/Jiwayurru_BG.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#jiwayurru"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/calls/29_Western_Bowerbird_(churrs_at_bower).mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#jiwayurru"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/jiwayurru_VW1.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#jiwayurru"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/jiwawurru_vw.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#jiwayurru"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/Karrkany_BG.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#karrkany"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/calls/27_Black_Kite_(adult_-_trill-whistle)).mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#karrkany"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/karrkany_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#karrkany"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/karrkany_vw.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#karrkany"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/Niinii_BG.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#niinii"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/calls/15_Zebra_Finch_(flock_near_waterhole).mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#niinii"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/niinii_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#niinii"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/Niinii_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#niinii"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/Pangarra_IM1.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#pangarra"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/calls/44_Little_Corella_(alarm_screech_and_'corella'_calls).mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#pangarra"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/pangarra_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#pangarra"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/Pangarra_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#pangarra"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/Kawulnga2IM2.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kawulnga"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/calls/74_Nankeen_Night-Heron_('kyok'_-_colony).mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kawulnga"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/kawulnga_SO.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kawulnga"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/Kumurlawurta_BG.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kumurlawurta"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/calls/7_Australian_Magpie_(terraereginae)(song___alarm).mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kumurlawurta"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/kumurlawurta_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kumurlawurta"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/Kumurlawurta_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kumurlawurta"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/Tuwakin_BG.jpeg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#tuwakin"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/tuwakin_vw.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#tuwakin"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/Kurtakurtaka_SP.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kurtakurtaka"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/calls/6_Channel-billed_Cuckoo_('awk'_calls_-_two_birds_perched).mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kurtakurtaka"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/kurtakurtaka_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kurtakurtaka"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/Kurtakurtaka_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kurtakurtaka"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/Kurrarntal_IM1.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kurrarntal"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/calls/64_Brolga_(individual_flying).mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kurrarntal"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/kurrarntal_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kurrarntal"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/Kurrarntal_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kurrarntal"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/Kulyjara_TT.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kulyjara"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/calls/98_Peaceful_Dove_('coo_a_luk').mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kulyjara"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/kulyjara_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kulyjara"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/Kulyjara_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kulyjara"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/Karrangkarrang_IM2.jpeg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#karrangkarrang"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/karrangkarrang_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#karrangkarrang"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/karrangkarrang_vd.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#karrangkarrang"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/Tikirrija_BG.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#tikirrija"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/calls/17_Red-backed_Kingfisher_('keeurp'_-_advertising_call).mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#tikirrija"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/tikirrija_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#tikirrija"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/tikirrija_vw.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#tikirrija"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/Warli_SP.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#warli"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/warli_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#warli"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/Warlawurru_BG.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#warlawurru"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/calls/23_Wedge-tailed_Eagle_(calling_overhead).mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#warlawurru"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/warlawurru_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#warlawurru"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/Warlawurru_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#warlawurru"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/Janparriman_IM1.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#janparriman"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/calls/36_Black-faced_Cuckoo-shrike(melanops)(churring_calls_-_interact.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#janparriman"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/janparriman_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#janparriman"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/Walukpin_SP.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#walukpin"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/calls/38_Red-tailed_Black-Cockatoo_(adults_and_juveniles).mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#walukpin"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/walukpin_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#walukpin"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/Warlukpin_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#walukpin"
+        }
+      ]
+    },
+    {
+      "@id": [
+        "files/audio/calls/27_Black_Kite_(adult_-_trill-whistle)).mp3"
+      ],
+      "@type": "File",
+      "isPartOf": {
+        "@id": "#tuwakin"
+      }
+    },
+    {
+      "@id": [
+        "files/audio/calls/27_Black_Kite_(adult_-_trill-whistle)).mp3"
+      ],
+      "@type": "File",
+      "isPartOf": {
+        "@id": "#karrangkarrang"
+      }
+    },
+    {
+      "@id": [
+        "arcp://name,custom/terms#callAudio"
+      ],
+      "@type": "rdf:Property",
+      "name": "callAudio",
+      "description": "the call audio file associated with this entry"
+    },
+    {
+      "@id": "arcp://name,custom/terms#translation",
+      "@type": "rdf:Property",
+      "name": "translation",
+      "description": "the translation of the entry"
+    },
+    {
+      "@id": "arcp://name,custom/terms#sentence",
+      "@type": "rdf:Property",
+      "name": "sentence",
+      "description": "a story about the entry"
+    },
+    {
+      "@id": "arcp://name,custom/terms#callAudio",
+      "@type": "rdf:Property",
+      "name": "sentenceTranslation",
+      "description": "the translation of this entry's story"
+    },
+    {
+      "@id": "arcp://name,custom/terms#image",
+      "@type": "rdf:Property",
+      "name": "image",
+      "description": "the bird image"
+    },
+    {
+      "@id": "arcp://name,custom/terms#scientificName",
+      "@type": "rdf:Property",
+      "name": "scientificName",
+      "description": "the scientificName for this entry"
+    },
+    {
+      "@id": "arcp://name,custom/terms#nameAudio",
+      "@type": "rdf:Property",
+      "name": "nameAudio",
+      "description": "the name audio file associated with this entry"
+    },
+    {
+      "@id": "arcp://name,custom/terms#sentenceAudio",
+      "@type": "rdf:Property",
+      "name": "sentenceAudio",
+      "description": "the sentence audio file associated with this entry"
+    },
+    {
+      "@id": "arcp://name,custom/terms#photographerName",
+      "@type": "rdf:Property",
+      "name": "photographerName",
+      "description": "the name of the photographer who took the associated image"
+    },
+    {
+      "@id": "about/about.md",
+      "@type": [
+        "File",
+        "AboutPage"
+      ],
+      "encodingFormat": "text/markdown",
+      "about": {
+        "@id": "./"
+      }
+    }
+  ]
+}

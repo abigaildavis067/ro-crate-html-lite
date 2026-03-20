@@ -1,0 +1,1397 @@
+{
+  "@context": [
+    "https://w3id.org/ro/crate/1.1/context",
+    {
+      "@vocab": "http://schema.org/",
+      "ldac": "https://w3id.org/ldac/terms#",
+      "custom": "arcp://name,custom/terms#"
+    }
+  ],
+  "@graph": [
+    {
+      "@id": "ro-crate-metadata.json",
+      "@type": "CreativeWork",
+      "identifier": "ro-crate-metadata.json",
+      "about": {
+        "@id": "./"
+      }
+    },
+    {
+      "@id": "./",
+      "@type": [
+        "Dataset",
+        "RepositoryCollection"
+      ],
+      "name": "Yawu",
+      "description": "Gurindji fish",
+      "isRef_author": "",
+      "isRef_publisher": "",
+      "pcdm:hasMember": [
+        {
+          "@id": "#puliny"
+        },
+        {
+          "@id": "#jalarlka"
+        },
+        {
+          "@id": "#manyirrkila"
+        },
+        {
+          "@id": "#luwarra"
+        },
+        {
+          "@id": "#tanyan"
+        },
+        {
+          "@id": "#warlpi"
+        },
+        {
+          "@id": "#talwak"
+        },
+        {
+          "@id": "#karrwuring"
+        },
+        {
+          "@id": "#mipirri"
+        },
+        {
+          "@id": "#yamanangmanang"
+        },
+        {
+          "@id": "#kunpulu"
+        },
+        {
+          "@id": "#karralpirnang"
+        },
+        {
+          "@id": "#kinyang"
+        },
+        {
+          "@id": "#jitjijuwal"
+        },
+        {
+          "@id": "#puul"
+        },
+        {
+          "@id": "#lirritkarra"
+        },
+        {
+          "@id": "#jilaminy"
+        }
+      ]
+    },
+    {
+      "@id": "#puliny",
+      "@type": "RepositoryObject",
+      "name": "puliny",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Bony Bream",
+      "custom:sentence": "Wankaj nyila-ma jurlak-ma. Nyantu-ma yanana ngu wurinykarra-la marnana ngu, murluwu-ma wawurru-la-ma. Yalanginyi-ma waninyana na. Jurrkjurrkkarra na karru-ma-nga. Wal kuyangka na, nyamu-lu ngarturr-jawung-kulu-ma kurru-ma nyangana yijarni ngulu jurlak kayi panana, karu-ngku-ma yalungku-ma, nyamu-ma born wanku.",
+      "custom:sentenceTranslation": "The bony bream is a shiny fish. It blows bubbles from its mouth and nose. We catch the small fish as bait for fishing. The big ones we eat after roasting on a fire.",
+      "custom:photographerName": "Mark Allen and David Morgan",
+      "custom:scientificName": "Nematalosa erebi",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/pulinyMA&DM.JPG"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/puliny_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/puliny.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/pulinyMA&DM.JPG"
+        },
+        {
+          "@id": "files/audio/names/puliny_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/Wintuk_VW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#jalarlka",
+      "@type": "RepositoryObject",
+      "name": "jalarlka",
+      "alternateName": "warlujurlurru",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Catfish",
+      "custom:sentence": "Ngurnalu tal panana jalarlka-ma jangkarni-nyiyang, yapawurru 'warlujurlurru' , ngarlaka lutu. Ngirnngirta-ma yapawurru-nyiyang-ma katang. Wuyurrunkarra-nginyi-ma waj yuwanana ngurnalu pakara-yirri. Paka ngu karrwarnana kankunungkarra-la warrapa-la, ngaja-ngku paka-ngku pungana. Warra kangka-yinangulu karu-walija, \"Ngaja-n turrp wanku yalangka ngirnngirta-la!\" Punyu ngarin. Majul-ma-rnalu panana kataj. Karrmarlang-ma ngulu manana pakara-yirri wupkarra-wu.",
+      "custom:sentenceTranslation": "We call the big catfish 'jalarlka' and the small ones 'warlujurlurru'. The really young ones are called 'ngirnngirta' and 'katang'. After you catch them, you throw them in the open (away from everyone). Then you hold them by the spike on the top fin in case it jabs you. You should watch kids around these fish, \"You might get jabbed!\" The meat is good. You cut them open and get the fat out for roasting.",
+      "custom:photographerName": "Mark Allen and David Morgan",
+      "custom:scientificName": "Neoarius spp",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/jalarlka_MA&DM.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/jalarlka_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/jalarlka_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/jalarlka_MA&DM.jpg"
+        },
+        {
+          "@id": "files/audio/names/jalarlka_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/jalarlka_VW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#manyirrkila",
+      "@type": "RepositoryObject",
+      "name": "manyirrkila",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Barramundi",
+      "custom:sentence": "Manyirrkirla, kula-lu nyangku ngarturr-lu-ma lawara. Nyila-ma nyangana ngu nyampayirla-ma manyirrkila-ma yalungku-ma kirri-ngku-ma nyanuny-ju-ma paku yuwanana. \"Nyampa-wu-ja-n yijkurrp yuwani?\" Im nou nyanuny-ju ngumparna-lu \"Ah maitbi karu.\" Ah karrinyana ngajik-piya ngarturr na. Wal nyila-ma karu-ma nyamu waninyana paraj-ma. Waninyana nguwula nyangana na \"Nyampa-ku-rla nyawa-ma? Nyanawu nyamu-rli pani manyirrkila.\"",
+      "custom:sentenceTranslation": "Pregnant women can't eat barramundi. If a woman starts to eat a barramundi and vomits, they know she's pregnant. \"Why are you vomiting?\" asks her husband. He knows then that she is pregnant. She will have been pregnant for a little time now. Well when the child is born, they will see a mark, \"What's this wipilirri? You know - it's from when we killed the barramundi.\"",
+      "custom:photographerName": "David Morgan",
+      "custom:scientificName": "Lates calcarifer",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#BiddyWavehill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/manyirrkila_DM.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/manyirrkila_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/manyirrkila_BW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/manyirrkila_DM.jpg"
+        },
+        {
+          "@id": "files/audio/names/manyirrkila_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/manyirrkila_BW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#luwarra",
+      "@type": "RepositoryObject",
+      "name": "luwarra",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Riflefish",
+      "custom:sentence": "Ngu wumpalp yanana kankulupal-la. Jupakkarra yuwanana luwarra-lu-ma. Yikili-nginyi-lu walngin, pirlpiji luwanana jawul-tu. Nguru-wu ngurnalu manana luwarra-ma. Ngurnalu-rla waj yuwanana manyirrkila-wu jalarlka-wu. Kamparrijang-kulu-ma-rnalu manani purnara-yawung-kulu. Jalajala-ma-rnalu manana wuyurrun-jawung-kulu. ",
+      "custom:sentenceTranslation": "Rifle fish swim close to the surface of the water. They can shoot down flies and grasshoppers from a long way off by spitting at them. We use rifle fish as live bait to catch barramundi and big catfish. In the old days, we used to get them with thin sticks but now we catch them using fishing lines. ",
+      "custom:photographerName": "Dave Wilson",
+      "custom:scientificName": "Toxotes chatareus",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/luwarra_DW.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/luwarra_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/luwarra_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/luwarra_DW.jpg"
+        },
+        {
+          "@id": "files/audio/names/luwarra_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/luwarra_VW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#tanyan",
+      "@type": "RepositoryObject",
+      "name": "tanyan",
+      "alternateName": "tawujpan",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Spangled Perch",
+      "custom:sentence": "Tanyan-ma yapawurru yawu. Ngurnalu manana nguru-wu, wuyurrunkarra-wu manyirrkila-wu jalarlka-wu.",
+      "custom:sentenceTranslation": "Spangled perch are small fish. We catch them as live bait for barramundi and large catfish.",
+      "custom:photographerName": "David Morgan",
+      "custom:scientificName": "Leiopotherapon unicolor",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/tanyan_DM.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/tanyan_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/tanyan_vw.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/tanyan_DM.jpg"
+        },
+        {
+          "@id": "files/audio/names/tanyan_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/tanyan_vw.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#warlpi",
+      "@type": "RepositoryObject",
+      "name": "warlpi",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Mouth Almighty",
+      "custom:sentence": "Warlpi-ma kurlpap-kaji. Ngulu kankulupal-la yanana. ",
+      "custom:sentenceTranslation": "These fish are school fish. They swim around just under the surface of the water.",
+      "custom:photographerName": "David Morgan and Simon Visser",
+      "custom:scientificName": "Glossamia aprion",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/warlpi_DM&SV.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/warlpi_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/warlpi_vw.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/warlpi_DM&SV.jpg"
+        },
+        {
+          "@id": "files/audio/names/warlpi_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/warlpi_vw.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#talwak",
+      "@type": "RepositoryObject",
+      "name": "talwak",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Rock Cod",
+      "custom:sentence": "Talwak makin-kaji. Ngu karrinyana wulngarn-ta-ma makin nyantu-nyantu-warij. Pirntiwiti-la-ma yanana nyantu-warij. Ngamangamayi-lu, jaju-ngku-ma nyarrulunguny-ju-ma nguyinangulu yuwanana ngaman-ta. Ngaman-ta nyarrulunguny-ja ngarlaka side kawarla-la-ma. Karru-nga yala-ma karu-ma makin-kaji talwak-marraj-parni.",
+      "custom:sentenceTranslation": "This fish likes to sleep in the sun on its own. It swims along the side of the riverbank alone too. Mothers and grandmothers put the fish on the fontanel of babies when they're lying in their coolamons. The babies sleep like a sleepy cod then!",
+      "custom:photographerName": "David Morgan",
+      "custom:scientificName": "Oxyeleotris selheimi, Oxyeleotris lineolata",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/talwak_DM.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/talwak_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/talwak_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/talwak_DM.jpg"
+        },
+        {
+          "@id": "files/audio/names/talwak_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/talwak_VW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#karrwuring",
+      "@type": "RepositoryObject",
+      "name": "karrwuring",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Black Bream",
+      "custom:sentence": "Nyampa-warla-rla kuni manani kamparrijang-kulu-ma ngumpin-tu-ma, karrwuring. Karrwuring ngulu-rla kuni-ma manani. Kuni-ma ngulu-rla karrwuring manani policeman-ku-ma. ",
+      "custom:sentenceTranslation": "In the old days, Aboriginal men would dream about black bream. If they dreamt about these fish, it meant the police were coming for them.",
+      "custom:photographerName": "David Morgan",
+      "custom:scientificName": "Hephaestus fuliginosus",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#JimmyManngayarri"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/karrwuring_DM.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/karrwuring_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/karrwuring_JM.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/karrwuring_DM.jpg"
+        },
+        {
+          "@id": "files/audio/names/karrwuring_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/karrwuring_JM.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#mipirri",
+      "@type": "RepositoryObject",
+      "name": "mipirri",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Mullet",
+      "custom:sentence": "Bank-kula yanana ngu, nyamu-wa paraj pungku. Mipirri-lu ngarnana janyja. Janya-wu-waji ngu. Ngulu ngarnani. Kula-rnalu manana hook-jawung.",
+      "custom:sentenceTranslation": "Mullet swim along the side of riverbanks. That's where you spot them. They're dirt eaters but people used to eat them. You can't catch them with hooks.",
+      "custom:photographerName": "Dave Wilson",
+      "custom:scientificName": "Liza alata",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/mipirri_DW.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/mipirri_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/names/mipirri_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/mipirri_DW.jpg"
+        },
+        {
+          "@id": "files/audio/names/mipirri_VW.mp3"
+        },
+        {
+          "@id": [
+            "files/audio/names/mipirri_VW.mp3"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "#yamanangmanang",
+      "@type": "RepositoryObject",
+      "name": "yamanangmanang",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Barred Grunter",
+      "custom:sentence": "Nguru-wu ngurnalu manana yamanangmanang. Ngurnalu-rla waj yuwanana manyirrkila-wu warlujurlurru-wu.",
+      "custom:sentenceTranslation": "We catch this fish as live bait. We use them to catch barramundi and catfish.",
+      "custom:photographerName": "David Morgan",
+      "custom:scientificName": "Amniataba percoides",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#TopsyDodd"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/yamanangmanang_DM.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/yamanangmanang_BW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/yamanangmanang_TD.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/yamanangmanang_DM.jpg"
+        },
+        {
+          "@id": "files/audio/names/yamanangmanang_BW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/yamanangmanang_TD.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#kunpulu",
+      "@type": "RepositoryObject",
+      "name": "kunpulu",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Sawfish",
+      "custom:sentence": "Ngawa-nginyi-ma yirr manani ngulu. Yuwanani ngulu pakara-la ngaja-yina kataj parru marumpu. Jartkarraaji wararr-jawung, ngulu kamparnani. Wirrip-ma-lu panani ngulu katataj marumpu.",
+      "custom:sentenceTranslation": "They used to pull this fish out of the water and put them in the open (away from everyone) in case someone's finger got cut. It's edible - lots of fat - so they used to cook it. They'd cut hunks of meat off to roast. ",
+      "custom:photographerName": "David Morgan",
+      "custom:scientificName": "Pristis microdon",
+      "custom:videoLink": "https://www.ictv.com.au/video/6724-kunpulu-sawfish",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/kunpulu_DM.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/sentences/kunpulu_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/kunpulu_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/kunpulu_DM.jpg"
+        },
+        {
+          "@id": "files/audio/sentences/kunpulu_VW.mp3"
+        },
+        {
+          "@id": [
+            "files/audio/sentences/kunpulu_VW.mp3"
+          ]
+        }
+      ]
+    },
+    {
+      "@id": "#karralpirnang",
+      "@type": "RepositoryObject",
+      "name": "karralpirnang",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Silver Bream",
+      "custom:sentence": "Karralpirnang ngurnalu manani nguru-wu wuyurrunkarra yapakayi-yawung-kulu wuyurrun-jawung-kulu. Karralpirnang ngu yapayapa-ma. Jangkakarni right kuyakijakkarra-wu. Jartkarra ngurnalu ngarnana kuyany-ma. Ngu punyu ngarin. Lirritkarra ngulu manani kamparrijang-kulu-ma.",
+      "custom:sentenceTranslation": "We catch little silver bream on small hooks. We mostly use them as bait but we eat the larger ones. They taste good. In the old days they used to catch them by dragging branches through the water.",
+      "custom:photographerName": "David Morgan",
+      "custom:scientificName": "Ambassis spp.",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/karralpirnang_DM.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/karralpirnang_VW.mp3.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/karralpirnang_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/karralpirnang_DM.jpg"
+        },
+        {
+          "@id": "files/audio/names/karralpirnang_VW.mp3.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/karralpirnang_VW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#kinyang",
+      "@type": "RepositoryObject",
+      "name": "kinyang",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Eel-tail Catfish",
+      "custom:sentence": "Kinyang jartkarraji-nyiyang-ma, punyu ngarin. Kuyuwan-jawung-rningan bat ngurnalu ngarnana jaartkarra. Payarnana ngurnalu-rla kangarnta-lu kuyuwan-ku.",
+      "custom:sentenceTranslation": "This type of catfish is edible - it tastes good! They have lots of bones but we just nibble around the bones carefully. ",
+      "custom:photographerName": "Mark Allen and David Morgan",
+      "custom:scientificName": "Neosilurus ater",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/kinyang_MA&DM.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/kinyang_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/kinyang_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/kinyang_MA&DM.jpg"
+        },
+        {
+          "@id": "files/audio/names/kinyang_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/kinyang_VW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#jitjijuwal",
+      "@type": "RepositoryObject",
+      "name": "jitjijuwal",
+      "alternateName": "punumarnta",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Long Tom",
+      "custom:sentence": "Punumarnta-ma jitji juwal. Yawu nyila paka-ma jarrwa karrwarnana punumarnta. Kula yangujpa karrwarnana. Jartkarraaji ngu nyila-ma jitjijuwal-ma ngurnalu ngarnana. Kamparrijang-kulu nganta nyila na paka jarrwa puliny an nyawa na ngulu yuwanani warrart. Kamparnani ngulu warrart na karrinyani. Nyawa nganta yurrurt ngulu yuwanani wumara-la. Nyantu-wariny-parni ngu ngarnani. Kalypa-rni ngulu ngarnani jaartkarra tajkarra-nginyi-ma.",
+      "custom:sentenceTranslation": "The long tom has a long nose and a lot of sharp bones. Really a lot - but it is edible. In the old days, they used to dry them in the sun for half an hour or so, then mash them and eat them not mixed with anything. They ate the flesh tenderised. Boney bream too!",
+      "custom:photographerName": "Mark Allen and David Morgan",
+      "custom:scientificName": "Strongylura kreffti",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/punumarnta_MA&DM.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/jitjijuwal_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/jitjijuwal_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/punumarnta_MA&DM.jpg"
+        },
+        {
+          "@id": "files/audio/names/jitjijuwal_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/jitjijuwal_VW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#puul",
+      "@type": "RepositoryObject",
+      "name": "puul",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Fish Trap",
+      "custom:sentence": "Puul-la ngulu manani ngawa-ngka yapawurru-la. Narlirlip yanana ngawa-ma yapakaru-ma. Nyila-ma-lu-rla yuwanani wumara na, jartit ngulu-rla yuwanani, puul-la na karrinyani yawu-ma. Nyila-ma puul-la. Tirrip ngulu wanyjarnani. Yanana ngawa-ma nyila-ma yapakaru, yawu-ma. Tirrip ngulu wanyjarnani. Kaputkaput ngulu-rla wirra nyangani. Nyangani ngulu yawu na. Yawu-ma-nga karru jintaku-la-rni kurlpap. Turturturlarra karru-nga yapakayi-la ngawa-ngka-ma yalangka-rni kurlpap nyamu-rla kuya wirri jartirt karrinyana wumara. Pilyayarrkarra kuyangku-ma. Nyila-ma-lu manani, panani ngulu karnti-yawung-kulu na tampangap. Nyila-ma-lu manani pirlnyip. Yapakaru-la-ma nyila-ma-lu manani yawu na warrwarrkuj. Yuwanani ngulu waj pakara-yirri. Warrkuj ngurnalu manani jaartkarra-wu na ngurra-ngkurra. Karu-ngku na ngurnayinangulu nyangani karrap pinarrik. Murlangka kanyjurra nyamu-rnalu Compound-ta kayirra karrinyani. ",
+      "custom:sentenceTranslation": "In the old days, people would catch fish in traps in the shallow water (near the Victoria River Crossing). Shallow water always flows there. They would heap up stones, blocking the flowing water so the fish would get stuck there. They would go away for a couple of days while the water and fish were flowing through it. Then they come back and check the trap. Fish would be heaped up in one place, thrashing around, gasping for breath. They would get sticks and kill them then. Then they'd collect the fish - those stuck in the trap - and throw them out of the water. We would pick them up and take them home to eat. I watched and learnt this as a kid, when we used to live at the Wave Hill Welfare Compound",
+      "custom:photographerName": "Charlie Schulz (courtesy of Darrell Lewis)",
+      "custom:scientificName": "Men using a fish trap in the Victoria River at Wave Hill Settlement in 1933",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/puul_CS.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/puul_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/puul_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/puul_CS.jpg"
+        },
+        {
+          "@id": "files/audio/names/puul_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/puul_VW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#lirritkarra",
+      "@type": "RepositoryObject",
+      "name": "lirritkarra",
+      "alternateName": "wuringwuring",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Fishing technique",
+      "custom:sentence": "Yungkuj ngulu panani karnti-ma, marlarn-ma an jangarla, nampula maitbi. Kangani ngulu na wuringwuring na. Wuringwuring, wuringwuring. Janyja-ma ngulu-rla kangani wuringwuring-ma kuya. Ngarnani ngu yawu-ngku-ma yalungku-ma, janyja na drang-pirrji na. Drangdrang-kata na yawu-ma every way. Nyila-ma ngulu manani na.",
+      "custom:sentenceTranslation": "In the old days, people would cut a branch from a red river gum or a spring corkwood tree or even a fig tree. Then they used to drag the branches through the water. They would stir the dirt up in the water. The fish would eat the dirt and it would make them dizzy. There would be lots of stunned fish all over the place. Then they would collect them.",
+      "custom:photographerName": "Penny Smith",
+      "custom:scientificName": "Red River Gum branch",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/lirrit_PS.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/lirrit_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/wuringwuring_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/lirrit_PS.jpg"
+        },
+        {
+          "@id": "files/audio/names/lirrit_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/wuringwuring_VW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#jilaminy",
+      "@type": "RepositoryObject",
+      "name": "jilaminy",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Fishing with mangrove poison",
+      "custom:sentence": "Tajkarra-ma-lu panani, yalanginyi-ma ngulu-rla manani nyampayirla, jilaminy. Jilaminy nyila, nyamu karrinyana kawirri-la. Nyila-ma tajkarra-ma ngulu-rla panani, marntaj. Ngawa-ngka yapakayi-la na ngulu yuwanani. Jakim ngulu-rla yuwanani. Kangani na ngulu-rla wuringwuring wuringwuring. Tartartapkarra-la ngulu-rla wuringwuring-ma kangani. Tartartapkarra ngulu-rla kangani, wal. Babulapkarra na nyawa-ma karrinya lumutu na ngamalart. Ngamalart na. Tampatampang panana, janyja-ku-purrupurru ngamalart-tu yalungku. Nyila-ma ngulu-rla kilkip kangani. Tampatampang na, nyilarra-ma yawu-ma. Nyangku-n na tampatampang, murlangka-ma nyamu-rla-nga karru kutij-ma. Nyila-ma ngulu manani na warrwarrkuj.",
+      "custom:sentenceTranslation": "This biIn the old days, people would get some mangrove branches and would pound them. This plant grows in white soil country. They would pound it then put it in shallow water to knock the fish out. Then they stirred up the water using the branches. They would keep dragging them through the water and stirring it up. They would keep dragging the branches through the water. Then the froth bubbled up. Froth and scum. The silt and froth kills them. They kept stirring up that one. And all of the fish died. You would see them all dead here on the side of the bank. Then they collect them all.rd likes to eat snakes. ",
+      "custom:photographerName": "Northern Territory Land Resource Management (Courtesy of Glenn Wightman)",
+      "custom:scientificName": "Barringtonia acutangula",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/jilaminy_LRM.jpeg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/jilaminy_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/jilaminy_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/jilaminy_LRM.jpeg"
+        },
+        {
+          "@id": "files/audio/names/jilaminy_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/jilaminy_VW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#VioletWadrill",
+      "name": "Violet Wadrill",
+      "description": "Violet Wadrill was born in 1942 and is a traditional owner of Jutamaliny. She has worked extensively with linguists on the documentation of Gurindji language and culture, including a dictionary, ethnobiology and a number of volumes of collected texts including 'Yijarni: True Stories from Gurindji Country' (2016). She also paints her traditional country, Jutamaliny, and makes tradition- al artefacts such as coolamons and nulla nullas. Her work demonstrates a passion for the maintenance of Gurindji traditions. Violet was a finalist in the ICTV Australian Digital Storytelling Awards 2018 and VIP guest speaker at the NT Writers Festival in 2019. She won the 2024 Prime Minister's Literary Award for Children's Literature for 'Tamarra: A Story of Termites on Gurindji Country' (2024). ",
+      "@type": "Person",
+      "person": {
+        "@id": "./"
+      },
+      "custom:image": {
+        "@id": "about/speaker-headshots/VioletWadrill.jpg"
+      },
+      "hasPart": {
+        "@id": "about/speaker-headshots/VioletWadrill.jpg"
+      }
+    },
+    {
+      "@id": "about/speaker-headshots/VioletWadrill.jpg",
+      "@type": "File",
+      "isPartOf": {
+        "@id": "#VioletWadrill"
+      }
+    },
+    {
+      "@id": "files/images/pulinyMA&DM.JPG",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#puliny"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/puliny_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#puliny"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/jalarlka_MA&DM.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#jalarlka"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/jalarlka_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#jalarlka"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/jalarlka_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#jalarlka"
+        }
+      ]
+    },
+    {
+      "@id": "#BiddyWavehill",
+      "name": "Biddy Wavehill Yamawurr",
+      "description": "Biddy Wavehill Yamawurr Nangala was born in 1942 to Mariah Yakngarri\nNangari and Cracker Jarluyarri Jampijina under a wanyarri (bauhinia tree)\nat Jinparrak (old Wave Hill Station). She is the sister of Ronnie Wavehill\nand Steven Long. Biddy grew up at the station and worked in the\nstockman’s quarters when she was a young woman. She met her husband,\nJimmy Wavehill Ngawanyja, at the station, and they travelled around,\nworking on many different cattle stations including Limbunya, Waterloo,\nArgyle, Ivanhoe, Bow River, Mable Downs, Spring Creek and Nicholson\nbefore returning to Limbunya. Biddy and Jimmy now live at Kalkaringi\nwith their 10 children, 24 grandchildren and 15 great-grandchildren.\nBiddy has been heavily involved with Gurindji language and culture\ndocumentation projects with Felicity Meakins, Erika Charola and Lauren\nCampbell, including the dictionary and ethnobiology compilation. She is\nalso a director of the Karungkarni Art and Culture Aboriginal Corporation.\nShe paints her Dreamings, including ngawa (water), janginyina (lightning),\nwampana (spectacled hare wallaby) and yarrkankurna (white cockatoo).\nIn 2011, Biddy represented the region in the development of designs for\nthe Katherine Region Cultural Precinct, and in 2013 Biddy represented\nKarungkarni Arts at Megalo Printmaking Studios in Canberra.",
+      "@type": "Person",
+      "person": {
+        "@id": "./"
+      },
+      "custom:image": {
+        "@id": "about/speaker-headshots/BiddyWavehill.jpg"
+      },
+      "hasPart": {
+        "@id": "about/speaker-headshots/BiddyWavehill.jpg"
+      }
+    },
+    {
+      "@id": "about/speaker-headshots/BiddyWavehill.jpg",
+      "@type": "File",
+      "isPartOf": {
+        "@id": "#BiddyWavehill"
+      }
+    },
+    {
+      "@id": "files/images/manyirrkila_DM.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#manyirrkila"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/manyirrkila_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#manyirrkila"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/manyirrkila_BW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#manyirrkila"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/luwarra_DW.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#luwarra"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/luwarra_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#luwarra"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/luwarra_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#luwarra"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/tanyan_DM.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#tanyan"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/tanyan_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#tanyan"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/tanyan_vw.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#tanyan"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/warlpi_DM&SV.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#warlpi"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/warlpi_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#warlpi"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/warlpi_vw.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#warlpi"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/talwak_DM.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#talwak"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/talwak_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#talwak"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/talwak_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#talwak"
+        }
+      ]
+    },
+    {
+      "@id": "#JimmyManngayarri",
+      "name": "Jimmy Manngayarri",
+      "description": "His name was also Karrimala and Kurrajnginyi",
+      "@type": "Person",
+      "person": {
+        "@id": "./"
+      },
+      "custom:image": {
+        "@id": "about/speaker-headshots/JimmyManngayarri.jpg"
+      },
+      "hasPart": {
+        "@id": "about/speaker-headshots/JimmyManngayarri.jpg"
+      }
+    },
+    {
+      "@id": "about/speaker-headshots/JimmyManngayarri.jpg",
+      "@type": "File",
+      "isPartOf": {
+        "@id": "#JimmyManngayarri"
+      }
+    },
+    {
+      "@id": "files/images/karrwuring_DM.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#karrwuring"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/karrwuring_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#karrwuring"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/karrwuring_JM.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#karrwuring"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/mipirri_DW.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#mipirri"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/mipirri_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#mipirri"
+        }
+      ]
+    },
+    {
+      "@id": "#TopsyDodd",
+      "name": "Topsy Dodd Ngarnjal",
+      "description": "Topsy Dodd Ngarnjalngali Nangari was born at Jinparrak (old Wave Hill\nStation) in 1934 to Minnie Karnayingali Nawurla and Blutcher Waruyarri\nJanama. As a young woman, she worked in the kitchen serving food and\nwashing up. On the weekends, her family had time to gather traditional foods and hunt. She married Tommy Dodd Pirrmiyarri Jampijina and\ntogether they had three sons. She later married Victor Vincent Yingka\nNirlngayarri and had three more children. With her second husband,\nTopsy worked at the Wave Hill Welfare Settlement (now Kalkaringi)\ncooking for the school children. Later they moved to Jamangku (new\nWave Hill Station) where she continued her work as a cook and her\nhusband worked as a stockman. Today Topsy lives between Kalkaringi\nand Pigeon Hole with her daughters and grandchildren. Topsy paints\nher Dreaming, the lamawurt (witchetty grub) and makes kawarla\n(coolamons), kurturu (nulla nullas) and kilkilpkaji (clap sticks). She has\nalso been heavily involved in Gurindji language and culture projects with\nFelicity Meakins. Topsy is also a senior ceremony women who leads\nyawulyu and jarrarta (women’s ceremonies).",
+      "@type": "Person",
+      "person": {
+        "@id": "./"
+      },
+      "custom:image": {
+        "@id": "about/speaker-headshots/TopsyDodd.jpg"
+      },
+      "hasPart": {
+        "@id": "about/speaker-headshots/TopsyDodd.jpg"
+      }
+    },
+    {
+      "@id": "about/speaker-headshots/TopsyDodd.jpg",
+      "@type": "File",
+      "isPartOf": {
+        "@id": "#TopsyDodd"
+      }
+    },
+    {
+      "@id": "files/images/yamanangmanang_DM.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#yamanangmanang"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/yamanangmanang_BW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#yamanangmanang"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/yamanangmanang_TD.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#yamanangmanang"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/kunpulu_DM.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kunpulu"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/kunpulu_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kunpulu"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/karralpirnang_DM.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#karralpirnang"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/karralpirnang_VW.mp3.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#karralpirnang"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/karralpirnang_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#karralpirnang"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/kinyang_MA&DM.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kinyang"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/kinyang_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kinyang"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/kinyang_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kinyang"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/punumarnta_MA&DM.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#jitjijuwal"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/jitjijuwal_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#jitjijuwal"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/jitjijuwal_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#jitjijuwal"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/puul_CS.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#puul"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/puul_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#puul"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/puul_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#puul"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/lirrit_PS.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#lirritkarra"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/lirrit_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#lirritkarra"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/wuringwuring_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#lirritkarra"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/jilaminy_LRM.jpeg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#jilaminy"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/jilaminy_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#jilaminy"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/jilaminy_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#jilaminy"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/Wintuk_VW.mp3",
+      "@type": "File",
+      "isPartOf": {
+        "@id": "#puliny"
+      }
+    },
+    {
+      "@id": [
+        "files/audio/names/mipirri_VW.mp3"
+      ],
+      "@type": "File",
+      "isPartOf": {
+        "@id": "#mipirri"
+      }
+    },
+    {
+      "@id": [
+        "files/audio/sentences/kunpulu_VW.mp3"
+      ],
+      "@type": "File",
+      "isPartOf": {
+        "@id": "#kunpulu"
+      }
+    },
+    {
+      "@id": [
+        "arcp://name,custom/terms#callAudio"
+      ],
+      "@type": "rdf:Property",
+      "name": "callAudio",
+      "description": "the call audio file associated with this entry"
+    },
+    {
+      "@id": "arcp://name,custom/terms#translation",
+      "@type": "rdf:Property",
+      "name": "translation",
+      "description": "the translation of the entry"
+    },
+    {
+      "@id": "arcp://name,custom/terms#sentence",
+      "@type": "rdf:Property",
+      "name": "sentence",
+      "description": "a story about the entry"
+    },
+    {
+      "@id": "arcp://name,custom/terms#callAudio",
+      "@type": "rdf:Property",
+      "name": "sentenceTranslation",
+      "description": "the translation of this entry's story"
+    },
+    {
+      "@id": "arcp://name,custom/terms#image",
+      "@type": "rdf:Property",
+      "name": "image",
+      "description": "the bird image"
+    },
+    {
+      "@id": "arcp://name,custom/terms#scientificName",
+      "@type": "rdf:Property",
+      "name": "scientificName",
+      "description": "the scientificName for this entry"
+    },
+    {
+      "@id": "arcp://name,custom/terms#nameAudio",
+      "@type": "rdf:Property",
+      "name": "nameAudio",
+      "description": "the name audio file associated with this entry"
+    },
+    {
+      "@id": "arcp://name,custom/terms#sentenceAudio",
+      "@type": "rdf:Property",
+      "name": "sentenceAudio",
+      "description": "the sentence audio file associated with this entry"
+    },
+    {
+      "@id": "arcp://name,custom/terms#photographerName",
+      "@type": "rdf:Property",
+      "name": "photographerName",
+      "description": "the name of the photograpger for the associated image"
+    },
+    {
+      "@id": "arcp://name,custom/terms#videoLink",
+      "@type": "rdf:Property",
+      "name": "videoLink",
+      "description": "link to a video"
+    },
+    {
+      "@id": "arcp://name,custom/terms#speaker",
+      "@type": "rdf:Property",
+      "name": "speaker",
+      "description": "the speaker associated with this entry"
+    },
+    {
+      "@id": "about/about.md",
+      "@type": [
+        "File",
+        "AboutPage"
+      ],
+      "encodingFormat": "text/markdown",
+      "about": {
+        "@id": "./"
+      }
+    }
+  ]
+}

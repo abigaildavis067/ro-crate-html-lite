@@ -1,0 +1,8 @@
+{
+    "types": {
+      "RepositoryObject": {"template": "test_data/gurindji_yawu/templates/subobject-template.html"},
+      "Person": {"template": "test_data/gurindji_yawu/templates/person-template.html"},
+      "AboutPage": {"template": "test_data/gurindji_yawu/templates/about-template.html"}
+    },
+    "root" : {"template": "test_data/gurindji_yawu/templates/root-template.html"}
+}
