@@ -774,9 +774,6 @@
       "name": "Violet Wadrill",
       "description": "Violet Wadrill was born in 1942 and is a traditional owner of Jutamaliny. She has worked extensively with linguists on the documentation of Gurindji language and culture, including a dictionary, ethnobiology and a number of volumes of collected texts including 'Yijarni: True Stories from Gurindji Country' (2016). She also paints her traditional country, Jutamaliny, and makes tradition- al artefacts such as coolamons and nulla nullas. Her work demonstrates a passion for the maintenance of Gurindji traditions. Violet was a finalist in the ICTV Australian Digital Storytelling Awards 2018 and VIP guest speaker at the NT Writers Festival in 2019. She won the 2024 Prime Minister's Literary Award for Children's Literature for 'Tamarra: A Story of Termites on Gurindji Country' (2024). ",
       "@type": "Person",
-      "person": {
-        "@id": "./"
-      },
       "custom:image": {
         "@id": "about/speaker-headshots/VioletWadrill.jpg"
       },
@@ -841,9 +838,6 @@
       "name": "Biddy Wavehill Yamawurr",
       "description": "Biddy Wavehill Yamawurr Nangala was born in 1942 to Mariah Yakngarri\nNangari and Cracker Jarluyarri Jampijina under a wanyarri (bauhinia tree)\nat Jinparrak (old Wave Hill Station). She is the sister of Ronnie Wavehill\nand Steven Long. Biddy grew up at the station and worked in the\nstockman’s quarters when she was a young woman. She met her husband,\nJimmy Wavehill Ngawanyja, at the station, and they travelled around,\nworking on many different cattle stations including Limbunya, Waterloo,\nArgyle, Ivanhoe, Bow River, Mable Downs, Spring Creek and Nicholson\nbefore returning to Limbunya. Biddy and Jimmy now live at Kalkaringi\nwith their 10 children, 24 grandchildren and 15 great-grandchildren.\nBiddy has been heavily involved with Gurindji language and culture\ndocumentation projects with Felicity Meakins, Erika Charola and Lauren\nCampbell, including the dictionary and ethnobiology compilation. She is\nalso a director of the Karungkarni Art and Culture Aboriginal Corporation.\nShe paints her Dreamings, including ngawa (water), janginyina (lightning),\nwampana (spectacled hare wallaby) and yarrkankurna (white cockatoo).\nIn 2011, Biddy represented the region in the development of designs for\nthe Katherine Region Cultural Precinct, and in 2013 Biddy represented\nKarungkarni Arts at Megalo Printmaking Studios in Canberra.",
       "@type": "Person",
-      "person": {
-        "@id": "./"
-      },
       "custom:image": {
         "@id": "about/speaker-headshots/BiddyWavehill.jpg"
       },
@@ -998,9 +992,6 @@
       "name": "Jimmy Manngayarri",
       "description": "His name was also Karrimala and Kurrajnginyi",
       "@type": "Person",
-      "person": {
-        "@id": "./"
-      },
       "custom:image": {
         "@id": "about/speaker-headshots/JimmyManngayarri.jpg"
       },
@@ -1065,9 +1056,6 @@
       "name": "Topsy Dodd Ngarnjal",
       "description": "Topsy Dodd Ngarnjalngali Nangari was born at Jinparrak (old Wave Hill\nStation) in 1934 to Minnie Karnayingali Nawurla and Blutcher Waruyarri\nJanama. As a young woman, she worked in the kitchen serving food and\nwashing up. On the weekends, her family had time to gather traditional foods and hunt. She married Tommy Dodd Pirrmiyarri Jampijina and\ntogether they had three sons. She later married Victor Vincent Yingka\nNirlngayarri and had three more children. With her second husband,\nTopsy worked at the Wave Hill Welfare Settlement (now Kalkaringi)\ncooking for the school children. Later they moved to Jamangku (new\nWave Hill Station) where she continued her work as a cook and her\nhusband worked as a stockman. Today Topsy lives between Kalkaringi\nand Pigeon Hole with her daughters and grandchildren. Topsy paints\nher Dreaming, the lamawurt (witchetty grub) and makes kawarla\n(coolamons), kurturu (nulla nullas) and kilkilpkaji (clap sticks). She has\nalso been heavily involved in Gurindji language and culture projects with\nFelicity Meakins. Topsy is also a senior ceremony women who leads\nyawulyu and jarrarta (women’s ceremonies).",
       "@type": "Person",
-      "person": {
-        "@id": "./"
-      },
       "custom:image": {
         "@id": "about/speaker-headshots/TopsyDodd.jpg"
       },

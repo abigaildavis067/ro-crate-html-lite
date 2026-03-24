@@ -1,0 +1,1581 @@
+{
+  "@context": [
+    "https://w3id.org/ro/crate/1.1/context",
+    {
+      "@vocab": "http://schema.org/",
+      "ldac": "https://w3id.org/ldac/terms#",
+      "custom": "arcp://name,custom/terms#"
+    }
+  ],
+  "@graph": [
+    {
+      "@id": "ro-crate-metadata.json",
+      "@type": "CreativeWork",
+      "identifier": "ro-crate-metadata.json",
+      "about": {
+        "@id": "./"
+      }
+    },
+    {
+      "@id": "./",
+      "@type": [
+        "Dataset",
+        "RepositoryCollection"
+      ],
+      "name": "Bush Tucker",
+      "description": "Gurindji bush tucker",
+      "isRef_author": "",
+      "isRef_publisher": "",
+      "pcdm:hasMember": [
+        {
+          "@id": "#karrajkarraj"
+        },
+        {
+          "@id": "#yangunungu"
+        },
+        {
+          "@id": "#ngamanpurru"
+        },
+        {
+          "@id": "#ngarlu"
+        },
+        {
+          "@id": "#kurlartarti"
+        },
+        {
+          "@id": "#mintarraj"
+        },
+        {
+          "@id": "#wayita"
+        },
+        {
+          "@id": "#kinyjirrka"
+        },
+        {
+          "@id": "#muying"
+        },
+        {
+          "@id": "#kurtakarla"
+        },
+        {
+          "@id": "#kaaril"
+        },
+        {
+          "@id": "#partiki"
+        },
+        {
+          "@id": "#kunanturu"
+        },
+        {
+          "@id": "#kinyuwurra"
+        },
+        {
+          "@id": "#kamara"
+        },
+        {
+          "@id": "#ngurlu"
+        },
+        {
+          "@id": "#martiya"
+        },
+        {
+          "@id": "#wiyinti"
+        },
+        {
+          "@id": "#walarri"
+        },
+        {
+          "@id": "#kilipi"
+        },
+        {
+          "@id": "#tuku"
+        }
+      ]
+    },
+    {
+      "@id": "#karrajkarraj",
+      "@type": "RepositoryObject",
+      "name": "karrajkarraj",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Curry Orange",
+      "custom:sentence": "Karrajkarraj-ma. Nyila na ngulu-rla manani marlin-ma. Kurrku ngulu-rla kuya na kurrku pirrkap manani. Yuwani ngulu murlangka-ma. Ngulu-rla wumara yuwanani kuruwarrany yapayapa. Jakarr ngulu manani yalangku marlin-tu-ma. Yalanginyi-ma pakarli-lu na jakarr kankulupal-a-nginyi-ma. Nyamu jiyarnani kalypak-ma ngulu ngarnani jaartkarra na.",
+      "custom:sentenceTranslation": "These are curry oranges. People used to get water weed to cook them. They would make a hole in the ground. Then they put the fruit and small oven stones in. They would wrap the curry orange up in the water weed and cover it all with paperbark. When curry oranges had steamed soft, they’d eat them.",
+      "custom:photographerName": "Penny Smith",
+      "custom:scientificName": "Ziziphus quadrilocularis",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/karrajkarraj.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/karrajkarraj_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/05_Karrajkarraj_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/karrajkarraj.jpg"
+        },
+        {
+          "@id": "files/audio/names/karrajkarraj_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/05_Karrajkarraj_VW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#yangunungu",
+      "@type": "RepositoryObject",
+      "name": "yangunungu",
+      "alternateName": "warlujurlurru",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Bush Potato",
+      "custom:sentence": "Nyawa, yangunungku, kula kajupari karrinyana mangarri-ma. Nyangku-nku-rla-nga yikili. Ngurnta karrwarnana ngurnta karrwarnana. Ngurnta an jarlarl nyamu-nku-rla nyangku jarlarl. Nyila na mangarri-lu-ma make ‘em manana, swell up janyja you know. Jarlarl na. Ngulu pungana kamparrijang-kulu-ma jartjart ngulu-rla pungani kuya. “Ah nyawa na ngurnta!” Kurrij ngulu pungani yangunungku-ma ngulu paraj pungani. “Ah nyawa-rni-warla mangarri-ma,” kuya. Ngulu pungani ngulu tup manani, mangarri-ma.",
+      "custom:sentenceTranslation": "The tuber of the bush potato is never located close to the plant. You have to look a long way for it. The ground has holes and cracks which you should look for. The tuber makes the ground swell up and crack. People dig for it by pushing back the sand. “Ah here’s the root!” They dig and find the tuber saying “Ah and here’s the potato!” Then they keep digging and pull the potato up.",
+      "custom:photographerName": "Murnkurrumurnkurru rangers",
+      "custom:scientificName": "Ipomoea costata",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#BiddyWavehill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/Yangunungku_02.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/yangunungku_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/10_Yangunungku_BW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/Yangunungku_02.jpg"
+        },
+        {
+          "@id": "files/audio/names/yangunungku_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/10_Yangunungku_BW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#ngamanpurru",
+      "@type": "RepositoryObject",
+      "name": "ngamanpurru",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Conkerberry",
+      "custom:sentence": "Manjip ngurnalu panani ngamanpurru-ma. Waninyani jurlurl, karnti-nginyi nyamu-rnalu panani jakjak-ma. Kuya. Yalanginyi-ma ngurnalu manani na kanyjurra nyamu-wa waninyani janyja-ka-ma.",
+      "custom:sentenceTranslation": "[To get conkerberry] we hit the tree with a stick. [The fruit] falls to the ground when you do that. Then we collect it from where it falls on the ground.",
+      "custom:photographerName": "Peggy Macqueen",
+      "custom:scientificName": "Carissa lanceolata",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/IMGP2930_ngamanpurru.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/ngamanpurru_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/02_Ngamanpurru_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/IMGP2930_ngamanpurru.jpg"
+        },
+        {
+          "@id": "files/audio/names/ngamanpurru_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/02_Ngamanpurru_VW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#ngarlu",
+      "@type": "RepositoryObject",
+      "name": "ngarlu",
+      "alternateName": "namawurru",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Sugarbag",
+      "custom:sentence": "Namawurru-ma. Kurru ngulu nyangani kuyangku, ngulu nyangani kankula karrap nama-walija. Paraj ngulu pungani karnti-ka. Tikap na ngulu panani namawurru-ma nyila-ma. Ngulu manani kumpaying purrupurru ngarlu ngulu manani. Yuwanani ngulu parlak.",
+      "custom:sentenceTranslation": "This is sugarbag. (To get it) people listen for bees or spot them.\nThat’s how they find sugarbag in trees. Then they chop out the\nsugarbag. They get both the honeycomb and the honey\nand mix it up. Native bee-hives or 'sugarbag' (in Kriol) contain sweet dark honey that is very tasty and much sought after. The hives also contain wax, pollen and eggs. The small bees have no sting and are harmless. Sugarbag is considered a mild laxative which 'opens up' your stomach. The general terms for sugarbag are 'namawurru' or 'ngarlu' which also refer to the sweet dark honey. The honey is referred to specifically as 'ngunyjung'. Sugarbag occurs in three main areas. One is found in hollows in trees, one occurs in the ground and the other in termite mounds. Ground sugarbag is called 'nangkalij' or 'nangkaliny' or 'yarlukura'. Tree sugarbag is called 'ngarlu' or 'namawurru'. The entrance hole of the hive is called 'jurrkiny' which has a nose or veranda over the hole. The small stingless bee is called 'nama' or 'lanu'. The yellow eggs and pollen in the hive are called 'kuntarri', 'kumpaying' or 'ngunyuwulij'. The wax is called 'jikala', 'piyarnak', or 'tarla'. The separation between the honey and wax, and the pollen is called 'jirnuk'. The honey, wax and pollen all mixed up together is referred to as 'kirrang'. A full hive is called 'ngitiwuny'. The egg of the bee is called 'kurla'. Bee droppings are called 'jayurrk' and are seen below the hive entrance holes on the ground. This signals that the hive is active. The word for sugarbag season is 'tulwarrangkarrakmirntij' (the season of blossoms) and there are specific words for chopping at a tree to get honey, 'pirntirrp' or 'tarlawurlp' and digging into the hole with your fingers and sampling the honey, 'ngampij' or 'ngapinykarra'. A stick or small brush which is used to get honey out of a tree that cannot be chopped open is called a 'jamawurn'.",
+      "custom:photographerName": "Glenn Wightman",
+      "custom:scientificName": "No scientific name",
+      "custom:video_link": "https://www.ictv.com.au/video/5014-ngarlu-sugarbag",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/14_Ngarlu_GW.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/ngarlu_SO.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/14_Namawurru_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/14_Ngarlu_GW.jpg"
+        },
+        {
+          "@id": "files/audio/names/ngarlu_SO.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/14_Namawurru_VW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#kurlartarti",
+      "@type": "RepositoryObject",
+      "name": "kurlartarti",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Bush Orange",
+      "custom:sentence": "Karrinyana ngu nyamu-rla waninyana ngawa. Ngurnalu ngarnana kanyjal-nginyi-ma jaartkarra. Jaartkarrawaji ngu marntaj.",
+      "custom:sentenceTranslation": "Bush oranges grow after rain.  We eat them from the bottom up. It’s also edible.",
+      "custom:photographerName": "Peggy Macqueen",
+      "custom:scientificName": "Capparis umbonata",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/IMGP3047_kurlartarti.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/kurlartarti_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/13_Kurlartarti_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/IMGP3047_kurlartarti.jpg"
+        },
+        {
+          "@id": "files/audio/names/kurlartarti_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/13_Kurlartarti_VW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#mintarraj",
+      "@type": "RepositoryObject",
+      "name": "mintarraj",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Water Lily",
+      "custom:sentence": "Mintaarraj-ma ngawa-ngka ngulu manani. Kanyjurrak mana-ngka, yalangka na ngulu manani warrkuj yirrngan. Yirr manku ngun kuyangku-ma, yirrngan-jawung. Nyila-ma yirrngan na ngurnalu payarnani kuya-ngku wirlka-yawung-kulu, jangkakarni. Kilkak ngurnalu panani, ngurnalu ngarnani jaartkarra, yirrngan-ma. An kankula na nyamu-wa tuwi manana kankulak. Pinyjal manani ngurnalu-rla. Jaartkarra-waji.",
+      "custom:sentenceTranslation": "We collect waterlilies from creeks. We pull up the bulbs which are located underwater around the roots. You pull up the roots which have the bulbs attached. We chop off the big bulbs with an axe, then cut the skin off and eat it. The flower grows above the water. We open it up to get the inside part out.  It’s also edible.",
+      "custom:photographerName": "Penny Smith",
+      "custom:scientificName": "Nymphaea macrosperma",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/06_Mintaarraj01_PS.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/mintaarraj_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/06_Mintaarraj_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/06_Mintaarraj01_PS.jpg"
+        },
+        {
+          "@id": "files/audio/names/mintaarraj_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/06_Mintaarraj_VWw.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#wayita",
+      "@type": "RepositoryObject",
+      "name": "wayita",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Pencil Yam",
+      "custom:sentence": "Wayita-ma ngulu pungani kurrijkurrijkarra. Jurrpara-lu jipij wayita-ma. Jiyarnani ngu.",
+      "custom:sentenceTranslation": "People dig up all kinds of yams. You roast them with hot coals. They cook well that way.",
+      "custom:photographerName": "Glenn Wightman",
+      "custom:scientificName": "Vigna lanceolata",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/04_Wayita_GW.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/wayita_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/04_Wayita_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/04_Wayita_GW.jpg"
+        },
+        {
+          "@id": "files/audio/names/wayita_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/04_Wayita_VW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#kinyjirrka",
+      "@type": "RepositoryObject",
+      "name": "kinyjirrka",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Red-flowered Kurrajong",
+      "custom:sentence": "Kurlpap ngulu murlangka yuwanani an kuyangku na ngulu manani kinyjirrka-ma nyila-ma janyja-ka. Kula-n ngalu jaartkarra-ma ngaja-n kamparnana kuyany jilipija-lu. Karankarankarra-pirrji you know kuya-waji. Kilak-ma nyamu-lu manani. Wumara-la na ngulu tajkarra panani wumara-la tajtajkarra. Nyawa ngu waninyani mangarri kuya-partak. Nyawa kuya-partak-ma seed waninyana nyanuny parnngirri. Kangani ngulu, ngarnani ngulu jaartkarra.",
+      "custom:sentenceTranslation": "People heap up the kurrajong seeds and rub them in the dirt. You shouldn’t eat it without doing this in case the hair on the husks stings your mouth. It can make you itchy. Once they clean off the husks, they pound the seeds on a rock. The kernel falls one way and the skin falls another way. Then they pick them up and eat them.",
+      "custom:photographerName": "Penny Smith",
+      "custom:scientificName": "Brachychiton megaphyllus,\nBrachychiton spectabilis",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/07_Kinyjirrka_IMG_6296_PS.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/kinyjirrka_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/07_Kinyjirrka_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/07_Kinyjirrka_IMG_6296_PS.jpg"
+        },
+        {
+          "@id": "files/audio/names/kinyjirrka_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/07_Kinyjirrka_VW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#muying",
+      "@type": "RepositoryObject",
+      "name": "muying",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Black Plum",
+      "custom:sentence": "Ngungantipangkulu-rla nganany marnani, “Nomo-rnalu partartaj-nginyi. “Nyila-rni manta-rla kanyjurra-nginyi-rni nomo partaj-nginyi. “Nyampawu-ja-rla?” “Ngaja-rla mila janga karrinyana,” kuya. Jiwirri na ngurnalu panana tajkarra kuyany-ja wumara-la. Tajkarra-ma kalypak. Kangarnta wankaj-ju-ma. Kalypak ngurnalu panana tajkarra. Pulwarr nyila nyamu-wa karrinyana nyila-ma-rnalu kamparnana na purirtkarra parnngirri-la.",
+      "custom:sentenceTranslation": "[The old ladies] warned us about this fruit saying, “Don’t get them from the tree. Only collect the ones from on the ground, not the tree.” “Why can’t we?” “Your eyes might become diseased,” they said. The ripe ones we pound on a flat rock. You pound them until they’re soft, particularly if you have bad teeth. The dry ones we cook in a coolamon or on bark with hot rocks.",
+      "custom:photographerName": "Murnkurrumurnkurru rangers",
+      "custom:scientificName": "Vitex glabrata",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/muying02.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/muying_AC.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/names/01_Muying_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/muying02.jpg"
+        },
+        {
+          "@id": "files/audio/names/muying_AC.mp3"
+        },
+        {
+          "@id": "files/audio/names/01_Muying_VW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#kurtakarla",
+      "@type": "RepositoryObject",
+      "name": "kurtakarla",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Bush Coconut",
+      "custom:sentence": "Kurtakarla-ma nyila kankulupal-a karrinyana. Ngulu panana kuyangku wumara-lu-ma kanyjal-nginyi-ma open ‘em jaartkarra-waji.",
+      "custom:sentenceTranslation": "Bush coconuts are found high up. People pound them with a rock at the bottom of the nut to open them and get the edible part.",
+      "custom:photographerName": "Peggy Macqueen",
+      "custom:scientificName": "Hemiptera, Sternorrhyncha",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/IMGP3038_kurtakarla.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/kurtakarla_VW1.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/11_Kurtakarla_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/IMGP3038_kurtakarla.jpg"
+        },
+        {
+          "@id": "files/audio/names/kurtakarla_VW1.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/11_Kurtakarla_VW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#kaaril",
+      "@type": "RepositoryObject",
+      "name": "kaaril",
+      "alternateName": "kawujin",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Bush Cucumber",
+      "custom:sentence": "Kaaril kawujin. Juwaljuwal kuyany. Ngurnalu-rla wirr manani kuyangku-ma. Wirr kuyangku-ma jakjak nyamu-wa yani kanyjurrak talili. Nyila na jiwirri ngurnalu manani warrwarrkuj. Mawukarl ngurnalu tal panana jaartkarra-waji. Mawukarl. Ngurnalu yuwanani kuya janyja-ka, pulurrutkarra kuya janyja-ka pulurrutkarra. Nyamu-n-nga ngalu kula yuwarru pulurrutkarra janyja-ka, nyila-ma-ngku kampawu nyawa-ma. ",
+      "custom:sentenceTranslation": "Bush cucumbers have two Gurindji names. It’s a long fruit. We push the clumps of leaves back and let the ripe fruit drop onto the ground. We call the ripe edible fruit ‘mawukarl’. We rub them in the dirt first. If you eat them without doing this, they can sting you.",
+      "custom:photographerName": "Penny Smith",
+      "custom:scientificName": "Cucumis melo",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/09_Kaaril_PS.jpeg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/sentences/kaaril_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/09_Kaaril_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/09_Kaaril_PS.jpeg"
+        },
+        {
+          "@id": "files/audio/sentences/kaaril_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/09_Kaaril_VW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#partiki",
+      "@type": "RepositoryObject",
+      "name": "partiki",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Bush Nuts",
+      "custom:sentence": "Partiki-ma jangkakarni ngulu panani tajkarra janyparlk. Ngulu ngarnani karu-ngku-ma jaartkarra janyparlk-ma. Nyila-ma winkilying-ma nyamu karrinyani jakjak-nginyi, karnti-ka, kuya ngulu manani. Ngulu ngarnani jaartkarra.",
+      "custom:sentenceTranslation": "People crack open these large nuts called ‘janyparlk’. Kids like these nuts too. When they are ripe and fall on the ground or are on the tree, everyone collects and eats them.",
+      "custom:photographerName": "Penny Smith",
+      "custom:scientificName": "Terminalia arostrata, Terminalia grandiflora",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/08_Partiki_IMG_6237_PS.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/partiki_VW.mp3.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/08_Partiki_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/08_Partiki_IMG_6237_PS.jpg"
+        },
+        {
+          "@id": "files/audio/names/partiki_VW.mp3.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/08_Partiki_VW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#kunanturu",
+      "@type": "RepositoryObject",
+      "name": "kunanturu",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Bush Bean",
+      "custom:sentence": "Karnti kunanturu. Mangarri ‘wakurlpirri’ seed yapayapa.\nJaartkarrawaji du ngu. Ngulu kamparnani warlu-ngka kurnka-ma nyila-ma jangkakarni seed juwaljuwal.",
+      "custom:sentenceTranslation": "Bush beans are a type of tree. They have small seeds called ‘wakurlpirri’. These seeds are edible. People cook the long unripe seed pods on the fire.",
+      "custom:photographerName": "Penny Smith",
+      "custom:scientificName": "Acacia maconochieana, Acacia stenophylla",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/16_Kunanturu_PS.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/kunanturu_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/16_Kunanturu_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/16_Kunanturu_PS.jpg"
+        },
+        {
+          "@id": "files/audio/names/kunanturu_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/16_Kunanturu_VW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#kinyuwurra",
+      "@type": "RepositoryObject",
+      "name": "kinyuwurra",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Bush Onion",
+      "custom:sentence": "Mangarri-ma-rnalu pakara-yirri manana kuya. Nyila-rla purnku, kinyuwurra-wu yaluwu, nyila-ma kanyjurrak waninya janyja-kurra. Kuya-rla kilkak. Nyawa kilka waninya kuya-partak. Nyawa purnku waninya kuya-rningan.",
+      "custom:sentenceTranslation": "We get the edible part of the bush onion out by rubbing the skin off. The good part falls to the ground. That’s how you clean the skin off. The skin falls one way and the edible part fall another way.",
+      "custom:photographerName": "Penny Smith",
+      "custom:scientificName": "Strongylura kreffti",
+      "custom:video_link": "https://www.ictv.com.au/video/5017-kinyuwurra-bush-onions",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/03_Kinyuwurra01_PS.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/kinyuwurra_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/03_Kinyuwurra_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/03_Kinyuwurra01_PS.jpg"
+        },
+        {
+          "@id": "files/audio/names/kinyuwurra_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/03_Kinyuwurra_VW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#kamara",
+      "@type": "RepositoryObject",
+      "name": "kamara",
+      "alternateName": "kururl",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Black Soil Yam",
+      "custom:sentence": "Yipu purrp nyamu-nga wanku, nyila-ma-nga karru kankulupal-a-ma, jarrwalut karru-nga. Wal nyamu-rnalu-nga yanku kurrijkurrijkarra-wu. Nyila-ma-rnalu manu punyuk-parni na. Kuyangka-ma kurrijkarra, punyuk pani tip, mampurra-rni longlongwan kuyany-ma kururl-ma ngu kula yapayapa, marntaj.",
+      "custom:sentenceTranslation": "When the wet season finishes, yams shoot up and there's a lot of them around. That’s when we go and dig. It’s easy to pull the yams up when the soil is a bit damp. If you’re careful, you can pull up big ones without breaking them.",
+      "custom:photographerName": "Unknown photographer",
+      "custom:scientificName": "Ipomoea diamantinensis",
+      "custom:video_link": "https://www.ictv.com.au/video/5006-kamara-black-soil-yams",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/kamara.jpeg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/kamara_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/kamara.jpeg"
+        },
+        {
+          "@id": "files/audio/names/kamara_VW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#ngurlu",
+      "@type": "RepositoryObject",
+      "name": "ngurlu",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Bush Grain",
+      "custom:sentence": "Kawarla-la na ngulu, manani warlmip-ma. Kilka waninyani ngu kuyapartak, purnku-ma. Nyawa waninyani jilipija-ma kuyapartak, jurlurl. Nyawa-nginyi-ma, ngulu yuwanani kawarla-la-ma. Ngawa-ngku ngulu kuya malykmalyk kunyjanani jaartkarra ngurnalu ngarnani. ",
+      "custom:sentenceTranslation": "They used to winnow seed in coolamons. The good part would fall down one way separated from the husks and the husks would spill over the other way. After that they would put the seed in another coolamon. They used to sprinkle water on it and then eat it.",
+      "custom:photographerName": "Nicole Zicchino",
+      "custom:scientificName": "Many grasses",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/IMG_0279.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/ngurlu_SO.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/purnku_VW_eg1_Kawarla.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/IMG_0279.jpg"
+        },
+        {
+          "@id": "files/audio/names/ngurlu_SO.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/purnku_VW_eg1_Kawarla.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#martiya",
+      "@type": "RepositoryObject",
+      "name": "martiya",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Bush Gum",
+      "custom:sentence": "Nyamu-rnalu yanana, wuyurrunkarra nyampawu. Ngurnalu manana martiya-ma jaartkarra-wu. Ngurnalu kangana yarti-ngkurra. Maitbi ngurnalu kamparnana kalypak, warlu-ngka. Ngurnalu ngarnana jaartkarra nyila-ma martiya-ma, punyu. Purijpurij-ngarna-ma. ",
+      "custom:sentenceTranslation": "When we go fishing for whatever, we get some bush gum to eat. We might take some to some shade and soften it by the fire. Then we eat the bush gum which tastes nice. It comes from bendee trees.",
+      "custom:photographerName": "Penny Smith",
+      "custom:scientificName": "Terminalia bursarina",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/Mardiya.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/martiya_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/martiya_VW_eg2_Ngulu.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/Mardiya.jpg"
+        },
+        {
+          "@id": "files/audio/names/martiya_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/martiya_VW_eg2_Ngulu.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#wiyinti",
+      "@type": "RepositoryObject",
+      "name": "wiyinti",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Fern-Leaved Grevillea",
+      "custom:sentence": "Ngurnalu manana wuyu-ma wiyinti na wiyinti wiyinti, karnti. Parnngirri-warla turl panana ngurnalu ngurnalu kamparnana na. Ngurnalu kamparnana, wuyumpulu na karrinyana, wuyuwuyu. Nyila-ma ngurnalu warrkuj manana ngurnalu manana kuya na, wararr-jawung-kulu. Ngurnalu yuwanana kuyany-ja na.",
+      "custom:sentenceTranslation": "We get charcoal from the fern-leaved grevillia. We chop some bark off the tree and burn it. We burn it until it is charcoal. Then we pick it up and grind it into a paste using fat. Finally we paint it on our skin.",
+      "custom:photographerName": "Brenda L Croft",
+      "custom:scientificName": "Grevillea pteridifolia",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#BiddyWavehill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/DSC_0676.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/wiyinti_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/wiyinti_BW_eg1_Ngurnalu.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/DSC_0676.jpg"
+        },
+        {
+          "@id": "files/audio/names/wiyinti_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/wiyinti_BW_eg1_Ngurnalu.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#walarri",
+      "@type": "RepositoryObject",
+      "name": "walarri",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Ghost Gum",
+      "custom:sentence": "Jirripkarra panana nyila-ma walarri-ma parnngirri-ma kawurn-ku. Nyawa-ma wilypuyu-ma. Wartartart murrkun-kurt jiyawu-nga. Nyamu-nga wurruja-ma karru nyilarra-ma parnngirri-ma, kamparnu na ngurnalu kamparnana na, kuliyan-pirrji. Kuliyan ngurnalu like ‘em manana, ngajik ngurnalu karrwarnana.",
+      "custom:sentenceTranslation": "The bark is stripped off the ghost gum to make ashes. This bark is wet. It will take about three days to dry out in the sun. When it is dry, we burn it down until it’s tangy. We like it tangy because it keeps the flavour longer.",
+      "custom:photographerName": "Felicity Meakins",
+      "custom:scientificName": "Corymbia bella",
+      "custom:video_link": "https://www.ictv.com.au/video/5015-kawurn-tobacco-ashes",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/walarri.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/walarri_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/walarri.jpg"
+        },
+        {
+          "@id": "files/audio/names/walarri_VW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#kilipi",
+      "@type": "RepositoryObject",
+      "name": "kilipi",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Bush Banana",
+      "custom:sentence": "Karnti-ka karrinyana kilipi-ma. Tipit manana karnti-ma kuya kankula karrinyana. Walywalypkarra karrinyana ngu jarrwa karnti-ka. Ngarnu-waji ngu jaartkarrawaji. Nantananta yapayapa ngamurruru.  Nyila-ma-lu kamparnani jurrpara-lu kuya. Kalypa right ngurnalu ngarnana.",
+      "custom:sentenceTranslation": "Bush bananas are found hanging off trees. They tie themselves around branches high up. Heaps of them can be found hanging down from the tree. They’re edible. The small young ones are called ‘ngamurruru’. You can cook them with hot coals to soften them up. They’re easier to eat soft.",
+      "custom:photographerName": "Penny Smith",
+      "custom:scientificName": "Marsdenia australis, Marsdenia viridiflora",
+      "custom:video_link": "https://www.ictv.com.au/video/5005-kilipi-bush-bananas",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/IMG_4355.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/kilipi_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/12_Kilipi_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/IMG_4355.jpg"
+        },
+        {
+          "@id": "files/audio/names/kilipi_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/12_Kilipi_VW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#tuku",
+      "@type": "RepositoryObject",
+      "name": "tuku",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Freshwater Mussel",
+      "custom:sentenceTranslation": "This short, solid mussel is found in the mud at the edges of 'langkarna' (billabongs). They are roasted on hot coals and eaten. Mussels cannot be eaten by boys; men can only eat them after they have been initiated. The meat can also be boiled in water with a little salt and made into 'yingalk' (soup) and this can be drunk to treat 'kulykulya' (congestion or 'bad cold' in Kriol) and 'ngajkula' (diarrhoea). The juice from mussels can also be used to treat ear aches and infections. It is dripped straight into the ear.",
+      "custom:photographerName": "Felicity Meakins",
+      "custom:scientificName": "Velesunio wilsonii",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/DSC00109.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/tuku_VW.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/DSC00109.jpg"
+        },
+        {
+          "@id": "files/audio/names/tuku_VW.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#VioletWadrill",
+      "name": "Violet Wadrill",
+      "description": "Violet Wadrill was born in 1942 and is a traditional owner of Jutamaliny. She has worked extensively with linguists on the documentation of Gurindji language and culture, including a dictionary, ethnobiology and a number of volumes of collected texts including 'Yijarni: True Stories from Gurindji Country' (2016). She also paints her traditional country, Jutamaliny, and makes tradition- al artefacts such as coolamons and nulla nullas. Her work demonstrates a passion for the maintenance of Gurindji traditions. Violet was a finalist in the ICTV Australian Digital Storytelling Awards 2018 and VIP guest speaker at the NT Writers Festival in 2019. She won the 2024 Prime Minister's Literary Award for Children's Literature for 'Tamarra: A Story of Termites on Gurindji Country' (2024). ",
+      "@type": "Person",
+      "custom:image": {
+        "@id": "about/speaker-headshots/VioletWadrill.jpg"
+      },
+      "hasPart": {
+        "@id": "about/speaker-headshots/VioletWadrill.jpg"
+      }
+    },
+    {
+      "@id": "about/speaker-headshots/VioletWadrill.jpg",
+      "@type": "File",
+      "isPartOf": {
+        "@id": "#VioletWadrill"
+      }
+    },
+    {
+      "@id": "files/images/karrajkarraj.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#karrajkarraj"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/karrajkarraj_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#karrajkarraj"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/05_Karrajkarraj_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#karrajkarraj"
+        }
+      ]
+    },
+    {
+      "@id": "#BiddyWavehill",
+      "name": "Biddy Wavehill Yamawurr",
+      "description": "Biddy Wavehill Yamawurr Nangala was born in 1942 to Mariah Yakngarri\nNangari and Cracker Jarluyarri Jampijina under a wanyarri (bauhinia tree)\nat Jinparrak (old Wave Hill Station). She is the sister of Ronnie Wavehill\nand Steven Long. Biddy grew up at the station and worked in the\nstockman’s quarters when she was a young woman. She met her husband,\nJimmy Wavehill Ngawanyja, at the station, and they travelled around,\nworking on many different cattle stations including Limbunya, Waterloo,\nArgyle, Ivanhoe, Bow River, Mable Downs, Spring Creek and Nicholson\nbefore returning to Limbunya. Biddy and Jimmy now live at Kalkaringi\nwith their 10 children, 24 grandchildren and 15 great-grandchildren.\nBiddy has been heavily involved with Gurindji language and culture\ndocumentation projects with Felicity Meakins, Erika Charola and Lauren\nCampbell, including the dictionary and ethnobiology compilation. She is\nalso a director of the Karungkarni Art and Culture Aboriginal Corporation.\nShe paints her Dreamings, including ngawa (water), janginyina (lightning),\nwampana (spectacled hare wallaby) and yarrkankurna (white cockatoo).\nIn 2011, Biddy represented the region in the development of designs for\nthe Katherine Region Cultural Precinct, and in 2013 Biddy represented\nKarungkarni Arts at Megalo Printmaking Studios in Canberra.",
+      "@type": "Person",
+      "custom:image": {
+        "@id": "about/speaker-headshots/BiddyWavehill.jpg"
+      },
+      "hasPart": {
+        "@id": "about/speaker-headshots/BiddyWavehill.jpg"
+      }
+    },
+    {
+      "@id": "about/speaker-headshots/BiddyWavehill.jpg",
+      "@type": "File",
+      "isPartOf": {
+        "@id": "#BiddyWavehill"
+      }
+    },
+    {
+      "@id": "files/images/Yangunungku_02.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#yangunungu"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/yangunungku_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#yangunungu"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/10_Yangunungku_BW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#yangunungu"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/IMGP2930_ngamanpurru.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#ngamanpurru"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/ngamanpurru_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#ngamanpurru"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/02_Ngamanpurru_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#ngamanpurru"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/14_Ngarlu_GW.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#ngarlu"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/ngarlu_SO.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#ngarlu"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/14_Namawurru_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#ngarlu"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/IMGP3047_kurlartarti.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kurlartarti"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/kurlartarti_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kurlartarti"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/13_Kurlartarti_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kurlartarti"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/06_Mintaarraj01_PS.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#mintarraj"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/mintaarraj_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#mintarraj"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/04_Wayita_GW.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#wayita"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/wayita_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#wayita"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/04_Wayita_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#wayita"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/07_Kinyjirrka_IMG_6296_PS.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kinyjirrka"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/kinyjirrka_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kinyjirrka"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/07_Kinyjirrka_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kinyjirrka"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/muying02.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#muying"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/muying_AC.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#muying"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/01_Muying_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#muying"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/IMGP3038_kurtakarla.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kurtakarla"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/kurtakarla_VW1.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kurtakarla"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/11_Kurtakarla_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kurtakarla"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/09_Kaaril_PS.jpeg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kaaril"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/kaaril_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kaaril"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/09_Kaaril_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kaaril"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/08_Partiki_IMG_6237_PS.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#partiki"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/partiki_VW.mp3.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#partiki"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/08_Partiki_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#partiki"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/16_Kunanturu_PS.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kunanturu"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/kunanturu_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kunanturu"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/16_Kunanturu_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kunanturu"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/03_Kinyuwurra01_PS.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kinyuwurra"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/kinyuwurra_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kinyuwurra"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/03_Kinyuwurra_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kinyuwurra"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/kamara.jpeg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kamara"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/kamara_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kamara"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/IMG_0279.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#ngurlu"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/ngurlu_SO.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#ngurlu"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/purnku_VW_eg1_Kawarla.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#ngurlu"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/Mardiya.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#martiya"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/martiya_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#martiya"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/martiya_VW_eg2_Ngulu.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#martiya"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/DSC_0676.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#wiyinti"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/wiyinti_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#wiyinti"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/wiyinti_BW_eg1_Ngurnalu.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#wiyinti"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/walarri.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#walarri"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/walarri_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#walarri"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/IMG_4355.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kilipi"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/kilipi_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kilipi"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/12_Kilipi_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kilipi"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/DSC00109.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#tuku"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/tuku_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#tuku"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/06_Mintaarraj_VWw.mp3",
+      "@type": "File",
+      "isPartOf": {
+        "@id": "#mintarraj"
+      }
+    },
+    {
+      "@id": [
+        "arcp://name,custom/terms#callAudio"
+      ],
+      "@type": "rdf:Property",
+      "name": "callAudio",
+      "description": "the call audio file associated with this entry"
+    },
+    {
+      "@id": "arcp://name,custom/terms#translation",
+      "@type": "rdf:Property",
+      "name": "translation",
+      "description": "the translation of the entry"
+    },
+    {
+      "@id": "arcp://name,custom/terms#sentence",
+      "@type": "rdf:Property",
+      "name": "sentence",
+      "description": "a story about the entry"
+    },
+    {
+      "@id": "arcp://name,custom/terms#callAudio",
+      "@type": "rdf:Property",
+      "name": "sentenceTranslation",
+      "description": "the translation of this entry's story"
+    },
+    {
+      "@id": "arcp://name,custom/terms#image",
+      "@type": "rdf:Property",
+      "name": "image",
+      "description": "the bird image"
+    },
+    {
+      "@id": "arcp://name,custom/terms#scientificName",
+      "@type": "rdf:Property",
+      "name": "scientificName",
+      "description": "the scientificName for this entry"
+    },
+    {
+      "@id": "arcp://name,custom/terms#nameAudio",
+      "@type": "rdf:Property",
+      "name": "nameAudio",
+      "description": "the name audio file associated with this entry"
+    },
+    {
+      "@id": "arcp://name,custom/terms#sentenceAudio",
+      "@type": "rdf:Property",
+      "name": "sentenceAudio",
+      "description": "the sentence audio file associated with this entry"
+    },
+    {
+      "@id": "arcp://name,custom/terms#photographerName",
+      "@type": "rdf:Property",
+      "name": "photographerName",
+      "description": "the name of the photograpger for the associated image"
+    },
+    {
+      "@id": "arcp://name,custom/terms#videoLink",
+      "@type": "rdf:Property",
+      "name": "videoLink",
+      "description": "link to a video"
+    },
+    {
+      "@id": "arcp://name,custom/terms#speaker",
+      "@type": "rdf:Property",
+      "name": "speaker",
+      "description": "the speaker associated with this entry"
+    },
+    {
+      "@id": "about/about.md",
+      "@type": [
+        "File",
+        "AboutPage"
+      ],
+      "encodingFormat": "text/markdown",
+      "about": {
+        "@id": "./"
+      }
+    }
+  ]
+}

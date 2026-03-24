@@ -1,0 +1,1307 @@
+{
+  "@context": [
+    "https://w3id.org/ro/crate/1.1/context",
+    {
+      "@vocab": "http://schema.org/",
+      "ldac": "https://w3id.org/ldac/terms#",
+      "custom": "arcp://name,custom/terms#"
+    }
+  ],
+  "@graph": [
+    {
+      "@id": "ro-crate-metadata.json",
+      "@type": "CreativeWork",
+      "identifier": "ro-crate-metadata.json",
+      "about": {
+        "@id": "./"
+      }
+    },
+    {
+      "@id": "./",
+      "@type": [
+        "Dataset",
+        "RepositoryCollection"
+      ],
+      "name": "Bush Medicine",
+      "description": "Gurindji bush medicine",
+      "isRef_author": "",
+      "isRef_publisher": "",
+      "pcdm:hasMember": [
+        {
+          "@id": "#manyanyi"
+        },
+        {
+          "@id": "#kupuwupu"
+        },
+        {
+          "@id": "#marlarn"
+        },
+        {
+          "@id": "#yirrijkaji"
+        },
+        {
+          "@id": "#lawa"
+        },
+        {
+          "@id": "#kirtparn"
+        },
+        {
+          "@id": "#partiki"
+        },
+        {
+          "@id": "#pujtilip"
+        },
+        {
+          "@id": "#ngirirri"
+        },
+        {
+          "@id": "#karnpirrkarnpirr"
+        },
+        {
+          "@id": "#wariyili"
+        },
+        {
+          "@id": "#kumpulyu"
+        },
+        {
+          "@id": "#tirnung"
+        },
+        {
+          "@id": "#tamarra"
+        },
+        {
+          "@id": "#tuku"
+        },
+        {
+          "@id": "#parrawi"
+        }
+      ]
+    },
+    {
+      "@id": "#manyanyi",
+      "@type": "RepositoryObject",
+      "name": "manyanyi",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Bush Vicks",
+      "custom:sentence": "Nyawa-ma-rnalu manana manyanyi tarukap-ku nyamu-lu karrinyana karu-walija ichy. An nyamu-lu karrinyana kulykulya-yawung ngurnalu manana nyawa na ngunayinangkulu tarukap yuwanana murlungku, nyawa manyanyi-ma.",
+      "custom:sentenceTranslation": "We get this manyanyi to wash the kids in when they are itching. Or if they are congested, we also pick manyanyi and bathe them in it.",
+      "custom:photographerName": "Nicole Zicchino",
+      "custom:scientificName": "Blumea, Streptoglossa, Pterocaulon spp.",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#BiddyWavehill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/Latest2_DSC_5138-2.JPG"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/manyanyi_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/1_manyanyi.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/Latest2_DSC_5138-2.JPG"
+        },
+        {
+          "@id": "files/audio/names/manyanyi_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/1_manyanyi.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#kupuwupu",
+      "@type": "RepositoryObject",
+      "name": "kupuwupu",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Lemon Grass",
+      "custom:sentence": "Tarukapkaji, kukijkarraaji, kupuwupu yuka, nyila na kukijkarra-wu-ma. Kupuwupu-ma nyila-ma janga-ngka-wu, kulyurrkapkaji-wu, kulykulya-wu, ngarlaka-wu nyampa-wu tarukap-ku. Ngurnalu yuwanana bucket-ta, boilim, janga-ngka-wu, tarukap-ku.",
+      "custom:sentenceTranslation": "This lemon grass is used as a wash and it is also drinkable. You can drink lemon grass (as a tea). Lemon grass is good to bathe in when you are sick with a cough or a stuffed-up head. We put it in the bucket and boil it to bathe ourselves when we get sick.",
+      "custom:photographerName": "Nicole Zicchino",
+      "custom:scientificName": "Eulalia aurea, Cymbopogon procerus",
+      "custom:video_link": "https://www.ictv.com.au/video/5010-gurindji-bush-medicine",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/DSC_5102.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/kupuwupu_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/2_kupuwupu.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/DSC_5102.jpg"
+        },
+        {
+          "@id": "files/audio/names/kupuwupu_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/2_kupuwupu.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#marlarn",
+      "@type": "RepositoryObject",
+      "name": "marlarn",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Red River Gum",
+      "custom:sentence": "Nyawa marlarn, karu-walija-ma tarukap ngurnayinangulu murlangku na medicine-tu tarukap. Jangkakarni too. Ngurnalu waninyana nyamu-rnalu kulyukap karrinyana. Ngurnalu yuwanana bakit-ta boilim. Ngurnalu gon atsaid-jirri. Coolbalak karrinyana nyantu-rni. Taruk na ngurnalu yuwanana. Ngapuk-ma marlarn-parni, tarukap-ma. ",
+      "custom:sentenceTranslation": "The leaves of red river gums make a good medicinal wash. We wash the kids in it, and adults too. We bathe in it when we have a cough. We put it in a bucket and boil it. Then we take it out and wait until it cools down. We cool down the medicinal wash.  We bathe in it then. It smell strong when you bathe in it. ",
+      "custom:photographerName": "Penny Smith",
+      "custom:scientificName": "Eucalyptus camaldulensis",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#KittyMintawurr"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/IMG_1313.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/marlarn_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/3_marlarn.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/IMG_1313.jpg"
+        },
+        {
+          "@id": "files/audio/names/marlarn_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/3_marlarn.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#yirrijkaji",
+      "@type": "RepositoryObject",
+      "name": "yirrijkaji",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "No common name",
+      "custom:sentence": "Jangkakarni-wu-purrupurru ngurnayinangulu kamparnana murluny-jawung-kulu-ma yirrijkaji-yawung-kulu. Nyawa-ma yirrijkaji-ma kamparnup marntara-yawung-ku nyampa-wu, kulykulya-wu, ngarlaka-wu wankaj-ku kuyawu karu-purrupurru nyamu-lu-wa karrinyana ngajkula-yawung-ku jumpurn ngurnayinangulu kamparnana nyawa-yawung-kulu.",
+      "custom:sentenceTranslation": "We also smoke people with yirrijkaji by putting the leaves on warm coals until it smokes. We use it for people with head sores, congestion or a headache. We also smoke kids with this kind of medicine when they have diarrhoea.",
+      "custom:photographerName": "Penny Smith",
+      "custom:scientificName": "Dodonaea polyzyga",
+      "custom:video_link": "https://www.ictv.com.au/video/5010-gurindji-bush-medicine",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/IMG_4833.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/4_yirrijkaji_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/4_yirrijkaji.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/IMG_4833.jpg"
+        },
+        {
+          "@id": "files/audio/names/4_yirrijkaji_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/4_yirrijkaji.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#lawa",
+      "@type": "RepositoryObject",
+      "name": "lawa",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Lemon Wood",
+      "custom:sentence": "Kuyuwarn-ku ngurnalu manana lawa-ma nyila-ma. Bujij ngurnalu manana karnti. Tajkarra ngurnalu panana. Wananga-la walyawalyak ngurnalu yuwanana. Ngajik ngurnalu karrwarnana. Janga-ngka-ma warrkuj ngurnalu manana. Kamparnana ngurnalu boilim. Tarukap ngurnalu yuwanana, we burn ‘em mijelp bushes-jawung-kulu na.",
+      "custom:sentenceTranslation": "Lawa is good for bones. We get the leafy branches. We pound it and put it in a bag. We keep it there for a while. When we’re sick, then we boil it. We bathe in it, and also put hot leaves on our skin.",
+      "custom:photographerName": "Penny Smith",
+      "custom:scientificName": "Leiopotherapon unicolor",
+      "custom:video_link": "https://www.ictv.com.au/video/5010-gurindji-bush-medicine",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/IMG_4836.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/lawa_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/5_lawa.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/IMG_4836.jpg"
+        },
+        {
+          "@id": "files/audio/names/lawa_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/5_lawa.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#kirtparn",
+      "@type": "RepositoryObject",
+      "name": "kirtparn",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Bush Cucumber",
+      "custom:sentence": "Kamparrijang-kulu ngulu manani nyila-ma kirtparn-ma puntanup. Manani ngulu kuya. Kalypa ngulu yuwanani nyawa-ngka na ngapanyji-la na. Walngin-tu ngaja-ngku payawu.",
+      "custom:sentenceTranslation": "They used to pick bush cucumbers in the old days. They used to roll them to soften them. Then (poke it with a stick and drip it) in the eye - if a fly bit you, for example.",
+      "custom:photographerName": "Penny Smith",
+      "custom:scientificName": "Cucumis picrocarpus",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/IMG_5016.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/kirtparn_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/6_kirtparn.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/IMG_5016.jpg"
+        },
+        {
+          "@id": "files/audio/names/kirtparn_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/6_kirtparn.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#partiki",
+      "@type": "RepositoryObject",
+      "name": "partiki",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Nutwood",
+      "custom:sentence": "Partiki nyawa, nyila jintapa-kari-ma, janga-yawung-ku-ma karlapa-wu-purrupurru. Karlapa-ma nyamu-lu karrinyana, ngurnayinangulu kamparnana kuyangku-ma. Wilyjirrij nyawa ngurla-nyanta yanana, nyila-ma karlapa-ma. Jik ngurla yanana jangkarni-ma. Kangarnta ngurnalu tal panana nyila-ma wurrkal-ma. Marntara-wu nyampa-wu karlapa-wu, janga-yawung-ku kuyany-ma im punyu. ",
+      "custom:sentenceTranslation": "The bark from a young nut tree is another one which can be used (to treat) kids (or adults) with skins sores, scabies or boils. If they have boils, we bathe them and the pus comes out. A lot can come out. We call this green stuff the “mouth”. This kind of medicine is great for sores, boils, or any sort of skin condition.",
+      "custom:photographerName": "Penny Smith",
+      "custom:scientificName": "Terminalia arostrata",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/Rangers.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/partiki_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/7_partiki.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/Rangers.jpg"
+        },
+        {
+          "@id": "files/audio/names/partiki_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/7_partiki.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#pujtilip",
+      "@type": "RepositoryObject",
+      "name": "pujtilip",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Bush Tea Leaf",
+      "custom:sentence": "Janga-ngka-wu ngurnalu manana nyila-ma nalija-ma puntanup. Ngurnalu karrwarnana wananga-la wurruja-pirrji. Yirrap-kari-la-ma ngurnalu boilim kamparnana. Kulykulyu-wu ngarlaka-wu warrngun-ta-wu. ",
+      "custom:sentenceTranslation": "We collect this tea when people are sick. We keep it in a bag until it dries out. Then we boil it. It’s for headaches and congestion.",
+      "custom:photographerName": "Penny Smith",
+      "custom:scientificName": "Ocimum tenuiflorum",
+      "custom:video_link": "https://www.ictv.com.au/video/5010-gurindji-bush-medicine",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/pujtiplip.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/pujtilip_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/8_pujitilip.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/pujtiplip.jpg"
+        },
+        {
+          "@id": "files/audio/names/pujtilip_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/8_pujitilip.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#ngirirri",
+      "@type": "RepositoryObject",
+      "name": "ngirirri",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Boomerang Tree",
+      "custom:sentence": "Ngurna mani tamarra an ngirirri. Ngurna mani karu-wu yaluwu yapakayi-wu. Ngurna kamparni faya-ngku light ‘em ngurna mani. Warlu-ngku ngurna kamparni karu nyila. Ngurna kamparni landi tingarri parntawurru-ma. Ngurna kamparni tuturl na kalu-wu. Next time-ma im gon rarrarraj dat everyway kalu na, dat karu.",
+      "custom:sentenceTranslation": "I got some termite mound and dry wattle wood for the baby. I lit a fire, burnt it down (put water on it and crushed it up). I slathered the baby with the warm mixture. I applied it to his hips, knees and back. I treated him with it so he could walk. Next thing you know, he was running everywhere.",
+      "custom:photographerName": "Penny Smith",
+      "custom:scientificName": "Hakea arborescens",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#ConnieNgarrmaya"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/IMG_4711.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/ngirirri_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/names/9_ngirirri.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/IMG_4711.jpg"
+        },
+        {
+          "@id": "files/audio/names/ngirirri_VW.mp3"
+        },
+        {
+          "@id": "files/audio/names/9_ngirirri.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#karnpirrkarnpirr",
+      "@type": "RepositoryObject",
+      "name": "karnpirrkarnpirr",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "No common name",
+      "custom:sentence": "Nyawa-ma karnpirrkarnpirr. Ngurnayinangulu yuwanana marntara-wu, nyamu-lu janga-ma karrwarnana. Kuyangka-ma nyarruluny-ja-ma jamana-la nyampa-ka wulu-ngka-ma maru-ngka-ma - murluny-jawung-kulu ngurnayinangulu kamparnana. Ngurnalu kutukutu yuwanana wumara-la-ma kuya. An ngurnayinangulu-rla palnyangkarra na yuwanana na.",
+      "custom:sentenceTranslation": "This is karnpirrkarnpirr. We put it on people when they have sores. On their feet, lower leg, buttocks or wherever - we treat them with this kind of plant. We grind it on a rock and then dab it on them.",
+      "custom:photographerName": "Peggy Macqueen",
+      "custom:scientificName": "Senna venusta",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/IMGP3029.jpeg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/sentences/karnpirrkarnpirr_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/10_karnpirrkarnpirr.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/IMGP3029.jpeg"
+        },
+        {
+          "@id": "files/audio/sentences/karnpirrkarnpirr_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/10_karnpirrkarnpirr.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#wariyili",
+      "@type": "RepositoryObject",
+      "name": "wariyili",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "No common name",
+      "custom:sentence": "Nyila na wariyili im punyu nyila-ma. Boil ‘em-kula-ma im kuyany winkilying. Karu janga ngurnayinangulu yuwanana mantara-yawung. Nyamu-lu karrinyana ngarlaka-la maru-ngka nyampa-ka. Marntara yaluny-jawung-kulu-ma, punyu tarukap-ku-ma. Bush-medicine nyila-ma wariyili-ma.",
+      "custom:sentenceTranslation": "The wariyili tree has medicinal properties. When you boil it, the water goes red. We bathe children with it when they have skin sores or scabies on their heads or bottoms or anywhere. This type of plant is good for treating sores. It is a type of bush medicine.",
+      "custom:photographerName": "Felicity Meakins",
+      "custom:scientificName": "Senna sp.",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/DSC00117.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/wariyili_VW.mp3.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/11_wariyili.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/DSC00117.jpg"
+        },
+        {
+          "@id": "files/audio/names/wariyili_VW.mp3.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/11_wariyili.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#kumpulyu",
+      "@type": "RepositoryObject",
+      "name": "kumpulyu",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "White Currant",
+      "custom:sentence": "Nyawa ngurna manana wikwik, kumpulyu kukijkarra-wu. Kumpulyu-ma, janga-ngka-wu kulykulya-wu. Nyawa kartak-kula ngurna yuwanana kuya. Boil ‘em jiyarni ngu winkilying-pirrji, nyila-ma kumpulyu-ma. Ngurnalu yuwanana nyampayirla-la du nalija-la. Winkilying na ngu, nyila-ma kanyjurra, kulyurrkkaji-wu-ma, ngurnalu kukijkarra na, nyamu-wa karru jiwilying na. ",
+      "custom:sentenceTranslation": "You grate the (young) roots of the white currant to make a medicinal tea to treat coughs. You put gratings in a billycan and boil it until it goes red. The red liquid is used to treat coughs. We drink it when it gets cold. You can also mix it with tea.",
+      "custom:photographerName": "Felicity Meakins",
+      "custom:scientificName": "Flueggea virosa",
+      "custom:video_link": "https://www.ictv.com.au/video/5013-kumpulyu-white-currant",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/kumpulyu.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/kumpulyu_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/12_kumpulyu.mp3 "
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/kumpulyu.jpg"
+        },
+        {
+          "@id": "files/audio/names/kumpulyu_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/12_kumpulyu.mp3 "
+        }
+      ]
+    },
+    {
+      "@id": "#tirnung",
+      "@type": "RepositoryObject",
+      "name": "tirnung",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Bloodwood Sap",
+      "custom:sentence": "Tirnung-ma nyila karnti-ka karrinyana bloodwood- ta. Kungulu-marraj nyila na ngurnalu manana warrkuj. Boilim ngurnalu kamparnana. Ngantipa-ma kukijkarra ngurnalu ngarnana. Tirnung-ma nyila-ma punyu jimirnkirt-ku-ma. Janga-ngka-wu mangarli-wu-ma nyampa-wu-ma. Janga nyamu-lu karrinyana kuliyan, nyila-ma-lu nyangana kuyany nyawa tirnung.",
+      "custom:sentenceTranslation": "This is a type of sap which can be found on bloodwood trees. We collect the sap that looks like blood. We boil it and drink it. Bloodwood sap is good for the kidneys. It also makes us feel better when we have a chest infection. If someone has cancer, they also drink a tea of the bloodwood sap.",
+      "custom:photographerName": "Penny Smith",
+      "custom:scientificName": "Corymbia bleeseri",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/BushMedicine_tirnung_CA_5019.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/tirnung_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/13_tirnung.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/BushMedicine_tirnung_CA_5019.jpg"
+        },
+        {
+          "@id": "files/audio/names/tirnung_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/13_tirnung.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#tamarra",
+      "@type": "RepositoryObject",
+      "name": "tamarra",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Termite Mound or Antbed",
+      "custom:sentence": "Ngurnayinangulu kamparnana tamarra-ma tajkarra ngurnalu panana. Tamarra-ma, ngurnayinangulu nakurr karan manana karu-wu-ma. Ngurnayinangulu yuwanana yuka warlaya yuka na kalypa. Karu-ma makin, ngurnayinangulu kamparnana tamarra-lu na. Jangkarnik jiyarnana yalungku-ma tamarra-lu-ma. Ngu puya jangkarni karru. Mingip yanku ngu. Parntawurru ngurnayinangulu kamparnana, ngulu lurlu karru. Ngurnayinangulu kamparnana na ngamany-ma kuya ngurnayinangulu yuwanana ngamany-ja tamarra-ma.",
+      "custom:sentenceTranslation": "We cook the antbed, (put water on it) and then crush it. Then we dig a hole to put the kids in. We put the soft spinifex (or other types of medicine e.g. ngirirri) in. We lay the newborn babies down and we cover them with the antbed. The antbed makes them grow up strong. It makes their bodies strong so they will be able to sit up straight and  crawl. We also treat the fontelle by putting antbed on this part of the head.",
+      "custom:photographerName": "Briony Barr",
+      "custom:scientificName": "No scientific name",
+      "custom:video_link": "https://www.ictv.com.au/video/5007-karu-kamparnup-treating-babies-with-antbed",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/cassie-mound.jpeg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/tamarra_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/14_tamarra.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/cassie-mound.jpeg"
+        },
+        {
+          "@id": "files/audio/names/tamarra_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/14_tamarra.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#tuku",
+      "@type": "RepositoryObject",
+      "name": "tuku",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Freshwater Mussels",
+      "custom:sentence": "Turturl du ngulu kamparnani marlin-jawung-kulu na. Kumpu-ma nyila-ma-lu manani. Nyamu-lu manani pakara-yirri-ma, yingkalk-ma ngulu filimap yuwanani na kartak-kula. Ngulu-nyunu kunyjarnani den, water ‘em maitbi ngarlaka or mila wash ‘em kuyangku, or langa-ngka ngulu yuwanani nyamu-lu janga karrinyani.",
+      "custom:sentenceTranslation": "People used to roast mussels before wrapped in water weed. It made them the juices come out. When they took them out the fire, they would fill up a billycan with the juice.  Then they’d douse their heads and eyes. Or drip it in their ears, if they had an earache.",
+      "custom:photographerName": "Felicity Meakins",
+      "custom:scientificName": "Velesunio wilsonii",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/DSC00109.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/tuku_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/15_tuku.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/DSC00109.jpg"
+        },
+        {
+          "@id": "files/audio/names/tuku_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/15_tuku.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#parrawi",
+      "@type": "RepositoryObject",
+      "name": "parrawi",
+      "datePublished": "2016-11-08 01:36:17",
+      "custom:translation": "Soap tree",
+      "custom:sentence": "Nyumirli ngu nyila-ma parrawi-ma. Wilypu manani ngulu kuyangku-ma parrawi-ma nyila-ma. Ngamarlart-ku yaluwu-ma parrawi-wu-ma. Pirrkap manani ngulu. Tarukap ngulu waninyani parrawi-yawung.",
+      "custom:sentenceTranslation": "Parrawi is used for soap. They used to rub the juicy soap pods into a lather. They would collect it and wash themselves using the soap pods.",
+      "custom:photographerName": "Penny Smith",
+      "custom:scientificName": "Acacia holosericea",
+      "pcdm:memberOf": {
+        "@id": "./"
+      },
+      "custom:speaker": {
+        "@id": "#VioletWadrill"
+      },
+      "license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "custom:image": {
+        "@id": "files/images/IMG_5358.jpg"
+      },
+      "custom:nameAudio": {
+        "@id": "files/audio/names/parrawi_VW.mp3"
+      },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/16_parrawi.mp3"
+      },
+      "hasPart": [
+        {
+          "@id": "files/images/IMG_5358.jpg"
+        },
+        {
+          "@id": "files/audio/names/parrawi_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/16_parrawi.mp3"
+        }
+      ]
+    },
+    {
+      "@id": "#BiddyWavehill",
+      "name": "Biddy Wavehill Yamawurr",
+      "description": "Biddy Wavehill Yamawurr Nangala was born in 1942 to Mariah Yakngarri\nNangari and Cracker Jarluyarri Jampijina under a wanyarri (bauhinia tree)\nat Jinparrak (old Wave Hill Station). She is the sister of Ronnie Wavehill\nand Steven Long. Biddy grew up at the station and worked in the\nstockman’s quarters when she was a young woman. She met her husband,\nJimmy Wavehill Ngawanyja, at the station, and they travelled around,\nworking on many different cattle stations including Limbunya, Waterloo,\nArgyle, Ivanhoe, Bow River, Mable Downs, Spring Creek and Nicholson\nbefore returning to Limbunya. Biddy and Jimmy now live at Kalkaringi\nwith their 10 children, 24 grandchildren and 15 great-grandchildren.\nBiddy has been heavily involved with Gurindji language and culture\ndocumentation projects with Felicity Meakins, Erika Charola and Lauren\nCampbell, including the dictionary and ethnobiology compilation. She is\nalso a director of the Karungkarni Art and Culture Aboriginal Corporation.\nShe paints her Dreamings, including ngawa (water), janginyina (lightning),\nwampana (spectacled hare wallaby) and yarrkankurna (white cockatoo).\nIn 2011, Biddy represented the region in the development of designs for\nthe Katherine Region Cultural Precinct, and in 2013 Biddy represented\nKarungkarni Arts at Megalo Printmaking Studios in Canberra.",
+      "@type": "Person",
+      "custom:image": {
+        "@id": "about/speaker-headshots/BiddyWavehill.jpg"
+      },
+      "hasPart": {
+        "@id": "about/speaker-headshots/BiddyWavehill.jpg"
+      }
+    },
+    {
+      "@id": "about/speaker-headshots/BiddyWavehill.jpg",
+      "@type": "File",
+      "isPartOf": {
+        "@id": "#BiddyWavehill"
+      }
+    },
+    {
+      "@id": "files/images/Latest2_DSC_5138-2.JPG",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#manyanyi"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/manyanyi_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#manyanyi"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/1_manyanyi.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#manyanyi"
+        }
+      ]
+    },
+    {
+      "@id": "#VioletWadrill",
+      "name": "Violet Wadrill",
+      "description": "Violet Wadrill was born in 1942 and is a traditional owner of Jutamaliny. She has worked extensively with linguists on the documentation of Gurindji language and culture, including a dictionary, ethnobiology and a number of volumes of collected texts including 'Yijarni: True Stories from Gurindji Country' (2016). She also paints her traditional country, Jutamaliny, and makes tradition- al artefacts such as coolamons and nulla nullas. Her work demonstrates a passion for the maintenance of Gurindji traditions. Violet was a finalist in the ICTV Australian Digital Storytelling Awards 2018 and VIP guest speaker at the NT Writers Festival in 2019. She won the 2024 Prime Minister's Literary Award for Children's Literature for 'Tamarra: A Story of Termites on Gurindji Country' (2024). ",
+      "@type": "Person",
+      "custom:image": {
+        "@id": "about/speaker-headshots/VioletWadrill.jpg"
+      },
+      "hasPart": {
+        "@id": "about/speaker-headshots/VioletWadrill.jpg"
+      }
+    },
+    {
+      "@id": "about/speaker-headshots/VioletWadrill.jpg",
+      "@type": "File",
+      "isPartOf": {
+        "@id": "#VioletWadrill"
+      }
+    },
+    {
+      "@id": "files/images/DSC_5102.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kupuwupu"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/kupuwupu_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kupuwupu"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/2_kupuwupu.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kupuwupu"
+        }
+      ]
+    },
+    {
+      "@id": "#KittyMintawurr",
+      "name": "Kitty Mintawurr",
+      "description": "Kitty Mintawurr Nanaku is the younger sister of Violet Wadrill",
+      "@type": "Person"
+    },
+    {
+      "@id": "files/images/IMG_1313.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#marlarn"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/marlarn_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#marlarn"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/3_marlarn.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#marlarn"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/IMG_4833.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#yirrijkaji"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/4_yirrijkaji_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#yirrijkaji"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/4_yirrijkaji.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#yirrijkaji"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/IMG_4836.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#lawa"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/lawa_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#lawa"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/5_lawa.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#lawa"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/IMG_5016.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kirtparn"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/kirtparn_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kirtparn"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/6_kirtparn.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kirtparn"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/Rangers.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#partiki"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/partiki_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#partiki"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/7_partiki.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#partiki"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/pujtiplip.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#pujtilip"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/pujtilip_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#pujtilip"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/8_pujitilip.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#pujtilip"
+        }
+      ]
+    },
+    {
+      "@id": "#ConnieNgarrmaya",
+      "name": "Connie Ngarmeiye",
+      "description": "Connie Ngarmeiye Nangala was born in 1940 to Mary Jarrngali Nangari\nand Joe Jumngayarri at Jinparrak (old Wave Hill Station) under a wanyarri\n(bauhinia) and grew up at the station. She is Gurindji and Mudburra. Her\nkaku (father’s father) country is Kunawa (Cattle Creek Station homestead\narea) and her jawiji (mother’s father) country is Yarri. She worked in the\nkitchen at Jinparrak and then worked at the police station compound at\nKalkaringi where she washed and ironed clothes and did cleaning. As a\nyoung woman she was married to Clancy Parnkana, Dandy’s brother, and\nthey lived at the Wave Hill Police Station. After marrying Joe Mosquito\n(aka Kevin Wara) she worked on her traditional country at Cattle Creek\nStation as a cook and was employed to cook at an important horse\nsale at Number 25 Bore. Later, she worked at Jamangku (new Wave Hill\nStation) and Nicholson Station also as a camp cook. She adopted two\nchildren and has six grandchildren through her adopted children. Connie\nis an artist at the Karungkarni Art and Culture Aboriginal Corporation in\nKalkaringi and has worked with Felicity Meakins on language projects.\nShe paints bush tucker as well as her Dreamings: ngapa (rain) and\nwampana (spectacled hare wallaby). Connie has also been involved in\nGurindji language and culture documentation over the years.",
+      "@type": "Person"
+    },
+    {
+      "@id": "files/images/IMG_4711.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#ngirirri"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/ngirirri_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#ngirirri"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/9_ngirirri.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#ngirirri"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/IMGP3029.jpeg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#karnpirrkarnpirr"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/karnpirrkarnpirr_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#karnpirrkarnpirr"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/10_karnpirrkarnpirr.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#karnpirrkarnpirr"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/DSC00117.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#wariyili"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/wariyili_VW.mp3.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#wariyili"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/11_wariyili.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#wariyili"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/kumpulyu.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kumpulyu"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/kumpulyu_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kumpulyu"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/12_kumpulyu.mp3 ",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kumpulyu"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/BushMedicine_tirnung_CA_5019.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#tirnung"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/tirnung_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#tirnung"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/13_tirnung.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#tirnung"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/cassie-mound.jpeg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#tamarra"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/tamarra_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#tamarra"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/14_tamarra.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#tamarra"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/DSC00109.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#tuku"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/tuku_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#tuku"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/15_tuku.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#tuku"
+        }
+      ]
+    },
+    {
+      "@id": "files/images/IMG_5358.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#parrawi"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/parrawi_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#parrawi"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/16_parrawi.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#parrawi"
+        }
+      ]
+    },
+    {
+      "@id": "#TopsyDodd",
+      "name": "Topsy Dodd Ngarnjal",
+      "description": "Topsy Dodd Ngarnjalngali Nangari was born at Jinparrak (old Wave Hill\nStation) in 1934 to Minnie Karnayingali Nawurla and Blutcher Waruyarri\nJanama. As a young woman, she worked in the kitchen serving food and\nwashing up. On the weekends, her family had time to gather traditional foods and hunt. She married Tommy Dodd Pirrmiyarri Jampijina and\ntogether they had three sons. She later married Victor Vincent Yingka\nNirlngayarri and had three more children. With her second husband,\nTopsy worked at the Wave Hill Welfare Settlement (now Kalkaringi)\ncooking for the school children. Later they moved to Jamangku (new\nWave Hill Station) where she continued her work as a cook and her\nhusband worked as a stockman. Today Topsy lives between Kalkaringi\nand Pigeon Hole with her daughters and grandchildren. Topsy paints\nher Dreaming, the lamawurt (witchetty grub) and makes kawarla\n(coolamons), kurturu (nulla nullas) and kilkilpkaji (clap sticks). She has\nalso been heavily involved in Gurindji language and culture projects with\nFelicity Meakins. Topsy is also a senior ceremony women who leads\nyawulyu and jarrarta (women’s ceremonies).",
+      "@type": "Person",
+      "custom:image": {
+        "@id": "about/speaker-headshots/TopsyDodd.jpg"
+      },
+      "hasPart": {
+        "@id": "about/speaker-headshots/TopsyDodd.jpg"
+      }
+    },
+    {
+      "@id": "about/speaker-headshots/TopsyDodd.jpg",
+      "@type": "File",
+      "isPartOf": {
+        "@id": "#TopsyDodd"
+      }
+    },
+    {
+      "@id": [
+        "arcp://name,custom/terms#callAudio"
+      ],
+      "@type": "rdf:Property",
+      "name": "callAudio",
+      "description": "the call audio file associated with this entry"
+    },
+    {
+      "@id": "arcp://name,custom/terms#translation",
+      "@type": "rdf:Property",
+      "name": "translation",
+      "description": "the translation of the entry"
+    },
+    {
+      "@id": "arcp://name,custom/terms#sentence",
+      "@type": "rdf:Property",
+      "name": "sentence",
+      "description": "a story about the entry"
+    },
+    {
+      "@id": "arcp://name,custom/terms#callAudio",
+      "@type": "rdf:Property",
+      "name": "sentenceTranslation",
+      "description": "the translation of this entry's story"
+    },
+    {
+      "@id": "arcp://name,custom/terms#image",
+      "@type": "rdf:Property",
+      "name": "image",
+      "description": "the bird image"
+    },
+    {
+      "@id": "arcp://name,custom/terms#scientificName",
+      "@type": "rdf:Property",
+      "name": "scientificName",
+      "description": "the scientificName for this entry"
+    },
+    {
+      "@id": "arcp://name,custom/terms#nameAudio",
+      "@type": "rdf:Property",
+      "name": "nameAudio",
+      "description": "the name audio file associated with this entry"
+    },
+    {
+      "@id": "arcp://name,custom/terms#sentenceAudio",
+      "@type": "rdf:Property",
+      "name": "sentenceAudio",
+      "description": "the sentence audio file associated with this entry"
+    },
+    {
+      "@id": "arcp://name,custom/terms#photographerName",
+      "@type": "rdf:Property",
+      "name": "photographerName",
+      "description": "the name of the photograpger for the associated image"
+    },
+    {
+      "@id": "arcp://name,custom/terms#videoLink",
+      "@type": "rdf:Property",
+      "name": "videoLink",
+      "description": "link to a video"
+    },
+    {
+      "@id": "arcp://name,custom/terms#speaker",
+      "@type": "rdf:Property",
+      "name": "speaker",
+      "description": "the speaker associated with this entry"
+    },
+    {
+      "@id": "about/about.md",
+      "@type": [
+        "File",
+        "AboutPage"
+      ],
+      "encodingFormat": "text/markdown",
+      "about": {
+        "@id": "./"
+      }
+    }
+  ]
+}
