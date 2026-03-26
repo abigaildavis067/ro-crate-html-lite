@@ -222,7 +222,7 @@
         "@id": "files/images/IMG_4833.jpg"
       },
       "custom:nameAudio": {
-        "@id": "files/audio/names/4_yirrijkaji_VW.mp3"
+        "@id": "files/audio/names/yirrijkaji_VW.mp3"
       },
       "custom:sentenceAudio": {
         "@id": "files/audio/sentences/4_yirrijkaji.mp3"
@@ -232,7 +232,7 @@
           "@id": "files/images/IMG_4833.jpg"
         },
         {
-          "@id": "files/audio/names/4_yirrijkaji_VW.mp3"
+          "@id": "files/audio/names/yirrijkaji_VW.mp3"
         },
         {
           "@id": "files/audio/sentences/4_yirrijkaji.mp3"
@@ -387,7 +387,7 @@
         "@id": "files/audio/names/pujtilip_VW.mp3"
       },
       "custom:sentenceAudio": {
-        "@id": "files/audio/sentences/8_pujitilip.mp3"
+        "@id": "files/audio/sentences/8_pujtilip.mp3"
       },
       "hasPart": [
         {
@@ -397,7 +397,7 @@
           "@id": "files/audio/names/pujtilip_VW.mp3"
         },
         {
-          "@id": "files/audio/sentences/8_pujitilip.mp3"
+          "@id": "files/audio/sentences/8_pujtilip.mp3"
         }
       ]
     },
@@ -427,7 +427,7 @@
         "@id": "files/audio/names/ngirirri_VW.mp3"
       },
       "custom:sentenceAudio": {
-        "@id": "files/audio/names/9_ngirirri.mp3"
+        "@id": "files/audio/sentences/9_ngirirri.mp3"
       },
       "hasPart": [
         {
@@ -437,7 +437,7 @@
           "@id": "files/audio/names/ngirirri_VW.mp3"
         },
         {
-          "@id": "files/audio/names/9_ngirirri.mp3"
+          "@id": "files/audio/sentences/9_ngirirri.mp3"
         }
       ]
     },
@@ -447,7 +447,7 @@
       "name": "karnpirrkarnpirr",
       "datePublished": "2016-11-08 01:36:17",
       "custom:translation": "No common name",
-      "custom:sentence": "Nyawa-ma karnpirrkarnpirr. Ngurnayinangulu yuwanana marntara-wu, nyamu-lu janga-ma karrwarnana. Kuyangka-ma nyarruluny-ja-ma jamana-la nyampa-ka wulu-ngka-ma maru-ngka-ma - murluny-jawung-kulu ngurnayinangulu kamparnana. Ngurnalu kutukutu yuwanana wumara-la-ma kuya. An ngurnayinangulu-rla palnyangkarra na yuwanana na.",
+      "custom:sentence": "Nyawa-ma karnpirrkarnpirr. Ngurnayinangulu yuwanana marntara-wu, nyamu-lu janga-ma karrwarnana. Kuyangka-ma nyarruluny-ja-ma jamana-la nyampa-ka wulu-ngka-ma maru-ngka-ma - murluny-jawung-kulu ngurnayinangulu kamparnana. Ngurnalu kutukutu yuwanana wumara-la-ma kuya. An ngurnayinangulu-rla palyangkarra na yuwanana na palyangpalyang.",
       "custom:sentenceTranslation": "This is karnpirrkarnpirr. We put it on people when they have sores. On their feet, lower leg, buttocks or wherever - we treat them with this kind of plant. We grind it on a rock and then dab it on them.",
       "custom:photographerName": "Peggy Macqueen",
       "custom:scientificName": "Senna venusta",
@@ -464,7 +464,7 @@
         "@id": "files/images/IMGP3029.jpeg"
       },
       "custom:nameAudio": {
-        "@id": "files/audio/sentences/karnpirrkarnpirr_VW.mp3"
+        "@id": "files/audio/names/karnpirrkarnpirr_VW.mp3"
       },
       "custom:sentenceAudio": {
         "@id": "files/audio/sentences/10_karnpirrkarnpirr.mp3"
@@ -474,7 +474,7 @@
           "@id": "files/images/IMGP3029.jpeg"
         },
         {
-          "@id": "files/audio/sentences/karnpirrkarnpirr_VW.mp3"
+          "@id": "files/audio/names/karnpirrkarnpirr_VW.mp3"
         },
         {
           "@id": "files/audio/sentences/10_karnpirrkarnpirr.mp3"
@@ -504,7 +504,7 @@
         "@id": "files/images/DSC00117.jpg"
       },
       "custom:nameAudio": {
-        "@id": "files/audio/names/wariyili_VW.mp3.mp3"
+        "@id": "files/audio/names/wariyili_VW.mp3"
       },
       "custom:sentenceAudio": {
         "@id": "files/audio/sentences/11_wariyili.mp3"
@@ -514,7 +514,7 @@
           "@id": "files/images/DSC00117.jpg"
         },
         {
-          "@id": "files/audio/names/wariyili_VW.mp3.mp3"
+          "@id": "files/audio/names/wariyili_VW.mp3"
         },
         {
           "@id": "files/audio/sentences/11_wariyili.mp3"
@@ -703,7 +703,7 @@
         "@id": "https://creativecommons.org/licenses/by/4.0/"
       },
       "custom:image": {
-        "@id": "files/images/IMG_5358.jpg"
+        "@id": "files/images/parrawi.jpg"
       },
       "custom:nameAudio": {
         "@id": "files/audio/names/parrawi_VW.mp3"
@@ -713,7 +713,7 @@
       },
       "hasPart": [
         {
-          "@id": "files/images/IMG_5358.jpg"
+          "@id": "files/images/parrawi.jpg"
         },
         {
           "@id": "files/audio/names/parrawi_VW.mp3"
@@ -819,7 +819,20 @@
       "@id": "#KittyMintawurr",
       "name": "Kitty Mintawurr",
       "description": "Kitty Mintawurr Nanaku is the younger sister of Violet Wadrill",
-      "@type": "Person"
+      "@type": "Person",
+      "custom:image": {
+        "@id": "about/speaker-headshots/kitty.jpg"
+      },
+      "hasPart": {
+        "@id": "about/speaker-headshots/kitty.jpg"
+      }
+    },
+    {
+      "@id": "about/speaker-headshots/kitty.jpg",
+      "@type": "File",
+      "isPartOf": {
+        "@id": "#KittyMintawurr"
+      }
     },
     {
       "@id": "files/images/IMG_1313.jpg",
@@ -858,7 +871,7 @@
       ]
     },
     {
-      "@id": "files/audio/names/4_yirrijkaji_VW.mp3",
+      "@id": "files/audio/names/yirrijkaji_VW.mp3",
       "@type": "File",
       "isPartOf": [
         {
@@ -975,7 +988,7 @@
       ]
     },
     {
-      "@id": "files/audio/sentences/8_pujitilip.mp3",
+      "@id": "files/audio/sentences/8_pujtilip.mp3",
       "@type": "File",
       "isPartOf": [
         {
@@ -987,7 +1000,20 @@
       "@id": "#ConnieNgarrmaya",
       "name": "Connie Ngarmeiye",
       "description": "Connie Ngarmeiye Nangala was born in 1940 to Mary Jarrngali Nangari\nand Joe Jumngayarri at Jinparrak (old Wave Hill Station) under a wanyarri\n(bauhinia) and grew up at the station. She is Gurindji and Mudburra. Her\nkaku (father’s father) country is Kunawa (Cattle Creek Station homestead\narea) and her jawiji (mother’s father) country is Yarri. She worked in the\nkitchen at Jinparrak and then worked at the police station compound at\nKalkaringi where she washed and ironed clothes and did cleaning. As a\nyoung woman she was married to Clancy Parnkana, Dandy’s brother, and\nthey lived at the Wave Hill Police Station. After marrying Joe Mosquito\n(aka Kevin Wara) she worked on her traditional country at Cattle Creek\nStation as a cook and was employed to cook at an important horse\nsale at Number 25 Bore. Later, she worked at Jamangku (new Wave Hill\nStation) and Nicholson Station also as a camp cook. She adopted two\nchildren and has six grandchildren through her adopted children. Connie\nis an artist at the Karungkarni Art and Culture Aboriginal Corporation in\nKalkaringi and has worked with Felicity Meakins on language projects.\nShe paints bush tucker as well as her Dreamings: ngapa (rain) and\nwampana (spectacled hare wallaby). Connie has also been involved in\nGurindji language and culture documentation over the years.",
-      "@type": "Person"
+      "@type": "Person",
+      "custom:image": {
+        "@id": "about/speaker-headshots/ConnieNgarmeiye.jpg"
+      },
+      "hasPart": {
+        "@id": "about/speaker-headshots/ConnieNgarmeiye.jpg"
+      }
+    },
+    {
+      "@id": "about/speaker-headshots/ConnieNgarmeiye.jpg",
+      "@type": "File",
+      "isPartOf": {
+        "@id": "#ConnieNgarrmaya"
+      }
     },
     {
       "@id": "files/images/IMG_4711.jpg",
@@ -1008,7 +1034,7 @@
       ]
     },
     {
-      "@id": "files/audio/names/9_ngirirri.mp3",
+      "@id": "files/audio/sentences/9_ngirirri.mp3",
       "@type": "File",
       "isPartOf": [
         {
@@ -1026,7 +1052,7 @@
       ]
     },
     {
-      "@id": "files/audio/sentences/karnpirrkarnpirr_VW.mp3",
+      "@id": "files/audio/names/karnpirrkarnpirr_VW.mp3",
       "@type": "File",
       "isPartOf": [
         {
@@ -1053,7 +1079,7 @@
       ]
     },
     {
-      "@id": "files/audio/names/wariyili_VW.mp3.mp3",
+      "@id": "files/audio/names/wariyili_VW.mp3",
       "@type": "File",
       "isPartOf": [
         {
@@ -1179,7 +1205,7 @@
       ]
     },
     {
-      "@id": "files/images/IMG_5358.jpg",
+      "@id": "files/images/parrawi.jpg",
       "@type": "File",
       "isPartOf": [
         {

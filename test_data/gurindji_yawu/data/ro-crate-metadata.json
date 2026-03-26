@@ -550,7 +550,7 @@
         "@id": "files/images/karralpirnang_DM.jpg"
       },
       "custom:nameAudio": {
-        "@id": "files/audio/names/karralpirnang_VW.mp3.mp3"
+        "@id": "files/audio/names/karralpirnang_VW.mp3"
       },
       "custom:sentenceAudio": {
         "@id": "files/audio/sentences/karralpirnang_VW.mp3"
@@ -560,7 +560,7 @@
           "@id": "files/images/karralpirnang_DM.jpg"
         },
         {
-          "@id": "files/audio/names/karralpirnang_VW.mp3.mp3"
+          "@id": "files/audio/names/karralpirnang_VW.mp3"
         },
         {
           "@id": "files/audio/sentences/karralpirnang_VW.mp3"
@@ -1125,7 +1125,7 @@
       ]
     },
     {
-      "@id": "files/audio/names/karralpirnang_VW.mp3.mp3",
+      "@id": "files/audio/names/karralpirnang_VW.mp3",
       "@type": "File",
       "isPartOf": [
         {

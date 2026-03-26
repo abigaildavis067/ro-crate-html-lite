@@ -98,7 +98,7 @@
       "name": "karrajkarraj",
       "datePublished": "2016-11-08 01:36:17",
       "custom:translation": "Curry Orange",
-      "custom:sentence": "Karrajkarraj-ma. Nyila na ngulu-rla manani marlin-ma. Kurrku ngulu-rla kuya na kurrku pirrkap manani. Yuwani ngulu murlangka-ma. Ngulu-rla wumara yuwanani kuruwarrany yapayapa. Jakarr ngulu manani yalangku marlin-tu-ma. Yalanginyi-ma pakarli-lu na jakarr kankulupal-a-nginyi-ma. Nyamu jiyarnani kalypak-ma ngulu ngarnani jaartkarra na.",
+      "custom:sentence": "Karrajkarraj-ma. Nyila na ngulu-rla manani marlin-ma. Kurrku ngulu-rla kuya na kurrku pirrkap manani. Yuwanani ngulu murlangka-ma. Ngulu-rla wumara yuwanani kuruwarrany yapayapa. Jakarr ngulu manani yalangku marlin-tu-ma. Yalanginyi-ma pakarli-lu na jakarr kankulupal-a-nginyi-ma. Nyamu jiyarnani kalypak-ma ngulu ngarnani jaartkarra na.",
       "custom:sentenceTranslation": "These are curry oranges. People used to get water weed to cook them. They would make a hole in the ground. Then they put the fruit and small oven stones in. They would wrap the curry orange up in the water weed and cover it all with paperbark. When curry oranges had steamed soft, they’d eat them.",
       "custom:photographerName": "Penny Smith",
       "custom:scientificName": "Ziziphus quadrilocularis",
@@ -238,7 +238,7 @@
         "@id": "files/images/14_Ngarlu_GW.jpg"
       },
       "custom:nameAudio": {
-        "@id": "files/audio/names/ngarlu_SO.mp3"
+        "@id": "files/audio/names/ngarlu_AC.mp3"
       },
       "custom:sentenceAudio": {
         "@id": "files/audio/sentences/14_Namawurru_VW.mp3"
@@ -248,7 +248,7 @@
           "@id": "files/images/14_Ngarlu_GW.jpg"
         },
         {
-          "@id": "files/audio/names/ngarlu_SO.mp3"
+          "@id": "files/audio/names/ngarlu_AC.mp3"
         },
         {
           "@id": "files/audio/sentences/14_Namawurru_VW.mp3"
@@ -331,7 +331,7 @@
           "@id": "files/audio/names/mintaarraj_VW.mp3"
         },
         {
-          "@id": "files/audio/sentences/06_Mintaarraj_VWw.mp3"
+          "@id": "files/audio/sentences/06_Mintaarraj_VW.mp3"
         }
       ]
     },
@@ -441,7 +441,7 @@
         "@id": "files/audio/names/muying_AC.mp3"
       },
       "custom:sentenceAudio": {
-        "@id": "files/audio/names/01_Muying_VW.mp3"
+        "@id": "files/audio/sentences/01_Muying_VW.mp3"
       },
       "hasPart": [
         {
@@ -451,7 +451,7 @@
           "@id": "files/audio/names/muying_AC.mp3"
         },
         {
-          "@id": "files/audio/names/01_Muying_VW.mp3"
+          "@id": "files/audio/sentences/01_Muying_VW.mp3"
         }
       ]
     },
@@ -519,7 +519,7 @@
         "@id": "files/images/09_Kaaril_PS.jpeg"
       },
       "custom:nameAudio": {
-        "@id": "files/audio/sentences/kaaril_VW.mp3"
+        "@id": "files/audio/names/kaaril_VW.mp3"
       },
       "custom:sentenceAudio": {
         "@id": "files/audio/sentences/09_Kaaril_VW.mp3"
@@ -529,7 +529,7 @@
           "@id": "files/images/09_Kaaril_PS.jpeg"
         },
         {
-          "@id": "files/audio/sentences/kaaril_VW.mp3"
+          "@id": "files/audio/names/kaaril_VW.mp3"
         },
         {
           "@id": "files/audio/sentences/09_Kaaril_VW.mp3"
@@ -559,7 +559,7 @@
         "@id": "files/images/08_Partiki_IMG_6237_PS.jpg"
       },
       "custom:nameAudio": {
-        "@id": "files/audio/names/partiki_VW.mp3.mp3"
+        "@id": "files/audio/names/partiki_VW.mp3"
       },
       "custom:sentenceAudio": {
         "@id": "files/audio/sentences/08_Partiki_VW.mp3"
@@ -569,7 +569,7 @@
           "@id": "files/images/08_Partiki_IMG_6237_PS.jpg"
         },
         {
-          "@id": "files/audio/names/partiki_VW.mp3.mp3"
+          "@id": "files/audio/names/partiki_VW.mp3"
         },
         {
           "@id": "files/audio/sentences/08_Partiki_VW.mp3"
@@ -684,12 +684,18 @@
       "custom:nameAudio": {
         "@id": "files/audio/names/kamara_VW.mp3"
       },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/kamara_VW.mp3"
+      },
       "hasPart": [
         {
           "@id": "files/images/kamara.jpeg"
         },
         {
           "@id": "files/audio/names/kamara_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/kamara_VW.mp3"
         }
       ]
     },
@@ -699,8 +705,8 @@
       "name": "ngurlu",
       "datePublished": "2016-11-08 01:36:17",
       "custom:translation": "Bush Grain",
-      "custom:sentence": "Kawarla-la na ngulu, manani warlmip-ma. Kilka waninyani ngu kuyapartak, purnku-ma. Nyawa waninyani jilipija-ma kuyapartak, jurlurl. Nyawa-nginyi-ma, ngulu yuwanani kawarla-la-ma. Ngawa-ngku ngulu kuya malykmalyk kunyjanani jaartkarra ngurnalu ngarnani. ",
-      "custom:sentenceTranslation": "They used to winnow seed in coolamons. The good part would fall down one way separated from the husks and the husks would spill over the other way. After that they would put the seed in another coolamon. They used to sprinkle water on it and then eat it.",
+      "custom:sentence": "Kawarla-la na ngulu, manani warlmip-ma kawarla-la-ma, warlmip. Kilka waninyani ngu kuyapartak, purnku na. Nyawa waninyani jilipija-ma kuyapartak, jurlurl. Nyawa-nginyi-ma, ngulu yuwanani kawarla-la-ma ngurnalu, nguyinangulu, jayingani na ngurnalu yuwanani nyila-ma kilka-ma. Ngawa-ngku ngulu kuya malykmalyk kunyjanani jaartkarra ngurnalu ngarnani. Nyila-ma, pirlkiya-ma nyawa-ma waninyani kuyapartak-ma jurlurl-ma. Nyila-ma purnku-ma. Jilipija-ma, nyila-ma ngulu manani kuya gigin. Ngulu yuwanani. Ngawa-yawung-kulu ngurnalu luwanani jaartkarra. Jangkakarni-lu yapayapa-lu. Laik nyamu-rnalu karrinyani tanku-murlung-kula yu nou, ngantipa.",
+      "custom:sentenceTranslation": "They used to winnow (seed) in a coolamon. The good part would fall down one way clean (separated from the husks). And the husks would spill over the other way. After that they would put it in another coolamon. They showed us so we know how to put the seed in the coolamon. They used to sprinkle water on it and then eat it. It's the white one that spills out this way. That's the good grain. And it was the husks that they would separate from it. Then they'd put it [in a coolamon]. We'd eat it mixed with water. Adults and kids alike. Like during the times we had no food.",
       "custom:photographerName": "Nicole Zicchino",
       "custom:scientificName": "Many grasses",
       "pcdm:memberOf": {
@@ -741,7 +747,7 @@
       "custom:translation": "Bush Gum",
       "custom:sentence": "Nyamu-rnalu yanana, wuyurrunkarra nyampawu. Ngurnalu manana martiya-ma jaartkarra-wu. Ngurnalu kangana yarti-ngkurra. Maitbi ngurnalu kamparnana kalypak, warlu-ngka. Ngurnalu ngarnana jaartkarra nyila-ma martiya-ma, punyu. Purijpurij-ngarna-ma. ",
       "custom:sentenceTranslation": "When we go fishing for whatever, we get some bush gum to eat. We might take some to some shade and soften it by the fire. Then we eat the bush gum which tastes nice. It comes from bendee trees.",
-      "custom:photographerName": "Penny Smith",
+      "custom:photographerName": "Felicity Meakins",
       "custom:scientificName": "Terminalia bursarina",
       "pcdm:memberOf": {
         "@id": "./"
@@ -759,7 +765,7 @@
         "@id": "files/audio/names/martiya_VW.mp3"
       },
       "custom:sentenceAudio": {
-        "@id": "files/audio/sentences/martiya_VW_eg2_Ngulu.mp3"
+        "@id": "files/audio/sentences/martiya_VW.mp3"
       },
       "hasPart": [
         {
@@ -769,7 +775,7 @@
           "@id": "files/audio/names/martiya_VW.mp3"
         },
         {
-          "@id": "files/audio/sentences/martiya_VW_eg2_Ngulu.mp3"
+          "@id": "files/audio/sentences/martiya_VW.mp3"
         }
       ]
     },
@@ -839,12 +845,18 @@
       "custom:nameAudio": {
         "@id": "files/audio/names/walarri_VW.mp3"
       },
+      "custom:sentenceAudio": {
+        "@id": "files/audio/sentences/Walarri_VW.mp3"
+      },
       "hasPart": [
         {
           "@id": "files/images/walarri.jpg"
         },
         {
           "@id": "files/audio/names/walarri_VW.mp3"
+        },
+        {
+          "@id": "files/audio/sentences/Walarri_VW.mp3"
         }
       ]
     },
@@ -1051,7 +1063,7 @@
       ]
     },
     {
-      "@id": "files/audio/names/ngarlu_SO.mp3",
+      "@id": "files/audio/names/ngarlu_AC.mp3",
       "@type": "File",
       "isPartOf": [
         {
@@ -1106,6 +1118,15 @@
     },
     {
       "@id": "files/audio/names/mintaarraj_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#mintarraj"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/sentences/06_Mintaarraj_VW.mp3",
       "@type": "File",
       "isPartOf": [
         {
@@ -1186,7 +1207,7 @@
       ]
     },
     {
-      "@id": "files/audio/names/01_Muying_VW.mp3",
+      "@id": "files/audio/sentences/01_Muying_VW.mp3",
       "@type": "File",
       "isPartOf": [
         {
@@ -1231,7 +1252,7 @@
       ]
     },
     {
-      "@id": "files/audio/sentences/kaaril_VW.mp3",
+      "@id": "files/audio/names/kaaril_VW.mp3",
       "@type": "File",
       "isPartOf": [
         {
@@ -1258,7 +1279,7 @@
       ]
     },
     {
-      "@id": "files/audio/names/partiki_VW.mp3.mp3",
+      "@id": "files/audio/names/partiki_VW.mp3",
       "@type": "File",
       "isPartOf": [
         {
@@ -1348,6 +1369,15 @@
       ]
     },
     {
+      "@id": "files/audio/sentences/kamara_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kamara"
+        }
+      ]
+    },
+    {
       "@id": "files/images/IMG_0279.jpg",
       "@type": "File",
       "isPartOf": [
@@ -1393,7 +1423,7 @@
       ]
     },
     {
-      "@id": "files/audio/sentences/martiya_VW_eg2_Ngulu.mp3",
+      "@id": "files/audio/sentences/martiya_VW.mp3",
       "@type": "File",
       "isPartOf": [
         {
@@ -1447,6 +1477,15 @@
       ]
     },
     {
+      "@id": "files/audio/sentences/Walarri_VW.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#walarri"
+        }
+      ]
+    },
+    {
       "@id": "files/images/IMG_4355.jpg",
       "@type": "File",
       "isPartOf": [
@@ -1490,13 +1529,6 @@
           "@id": "#tuku"
         }
       ]
-    },
-    {
-      "@id": "files/audio/sentences/06_Mintaarraj_VWw.mp3",
-      "@type": "File",
-      "isPartOf": {
-        "@id": "#mintarraj"
-      }
     },
     {
       "@id": [
