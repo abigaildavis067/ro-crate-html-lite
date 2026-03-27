@@ -86,7 +86,7 @@
       "name": "puliny",
       "datePublished": "2016-11-08 01:36:17",
       "custom:translation": "Bony Bream",
-      "custom:sentence": "Wankaj nyila-ma jurlak-ma. Nyantu-ma yanana ngu wurinykarra-la marnana ngu, murluwu-ma wawurru-la-ma. Yalanginyi-ma waninyana na. Jurrkjurrkkarra na karru-ma-nga. Wal kuyangka na, nyamu-lu ngarturr-jawung-kulu-ma kurru-ma nyangana yijarni ngulu jurlak kayi panana, karu-ngku-ma yalungku-ma, nyamu-ma born wanku.",
+      "custom:sentence": "Mirlirlinykarraaji nyila-ma puliny-ma. Lumutu ngu yuwanana nyila-ma kangarnta-ngurlung, jitji-ngurlung. Ngurnalu-rla nguru-wu manana wuyurrunkarra-wu yapakayi kuyany. [Jangkakarni ngurnalu jaartkarra ngarnana wupkarra-nginyi.]",
       "custom:sentenceTranslation": "The bony bream is a shiny fish. It blows bubbles from its mouth and nose. We catch the small fish as bait for fishing. The big ones we eat after roasting on a fire.",
       "custom:photographerName": "Mark Allen and David Morgan",
       "custom:scientificName": "Nematalosa erebi",
@@ -116,7 +116,7 @@
           "@id": "files/audio/names/puliny_VW.mp3"
         },
         {
-          "@id": "files/audio/sentences/Wintuk_VW.mp3"
+          "@id": "files/audio/sentences/puliny.mp3"
         }
       ]
     },
@@ -127,7 +127,7 @@
       "alternateName": "warlujurlurru",
       "datePublished": "2016-11-08 01:36:17",
       "custom:translation": "Catfish",
-      "custom:sentence": "Ngurnalu tal panana jalarlka-ma jangkarni-nyiyang, yapawurru 'warlujurlurru' , ngarlaka lutu. Ngirnngirta-ma yapawurru-nyiyang-ma katang. Wuyurrunkarra-nginyi-ma waj yuwanana ngurnalu pakara-yirri. Paka ngu karrwarnana kankunungkarra-la warrapa-la, ngaja-ngku paka-ngku pungana. Warra kangka-yinangulu karu-walija, \"Ngaja-n turrp wanku yalangka ngirnngirta-la!\" Punyu ngarin. Majul-ma-rnalu panana kataj. Karrmarlang-ma ngulu manana pakara-yirri wupkarra-wu.",
+      "custom:sentence": "[Ngurnalu tal panana] jalarlka-ma jangkarni-nyiyang, 'warlujurlurru' yapayapa. 'Ngirnngirta-ma' yapakayi-nyiyang-ma katang. Wuyurrunkarra-nginyi-ma waj yuwanana ngurnalu pakara-yirri. Paka ngu karrwarnana kankunungkarra-la warrapa-la, ngaja-ngku paka-ngku pungana. Warra kangka-yinangulu karu-walija, \"Ngaja-n turrp wanku yalangka ngirnngirta-la!\" Punyu ngarin. Majul-ma-rnalu panana kuya kataj. Karrmarlang-ma ngulu manana pakara-yirri [wupkarra-wu].",
       "custom:sentenceTranslation": "We call the big catfish 'jalarlka' and the small ones 'warlujurlurru'. The really young ones are called 'ngirnngirta' and 'katang'. After you catch them, you throw them in the open (away from everyone). Then you hold them by the spike on the top fin in case it jabs you. You should watch kids around these fish, \"You might get jabbed!\" The meat is good. You cut them open and get the fat out for roasting.",
       "custom:photographerName": "Mark Allen and David Morgan",
       "custom:scientificName": "Neoarius spp",
@@ -267,18 +267,12 @@
       "custom:nameAudio": {
         "@id": "files/audio/names/tanyan_VW.mp3"
       },
-      "custom:sentenceAudio": {
-        "@id": "files/audio/sentences/tanyan_vw.mp3"
-      },
       "hasPart": [
         {
           "@id": "files/images/tanyan_DM.jpg"
         },
         {
           "@id": "files/audio/names/tanyan_VW.mp3"
-        },
-        {
-          "@id": "files/audio/sentences/tanyan_vw.mp3"
         }
       ]
     },
@@ -307,18 +301,12 @@
       "custom:nameAudio": {
         "@id": "files/audio/names/warlpi_VW.mp3"
       },
-      "custom:sentenceAudio": {
-        "@id": "files/audio/sentences/warlpi_vw.mp3"
-      },
       "hasPart": [
         {
           "@id": "files/images/warlpi_DM&SV.jpg"
         },
         {
           "@id": "files/audio/names/warlpi_VW.mp3"
-        },
-        {
-          "@id": "files/audio/sentences/warlpi_vw.mp3"
         }
       ]
     },
@@ -328,7 +316,7 @@
       "name": "talwak",
       "datePublished": "2016-11-08 01:36:17",
       "custom:translation": "Rock Cod",
-      "custom:sentence": "Talwak makin-kaji. Ngu karrinyana wulngarn-ta-ma makin nyantu-nyantu-warij. Pirntiwiti-la-ma yanana nyantu-warij. Ngamangamayi-lu, jaju-ngku-ma nyarrulunguny-ju-ma nguyinangulu yuwanana ngaman-ta. Ngaman-ta nyarrulunguny-ja ngarlaka side kawarla-la-ma. Karru-nga yala-ma karu-ma makin-kaji talwak-marraj-parni.",
+      "custom:sentence": "Talwak makin-kaji. Ngu karrinyana wulngarn-ta-ma makin nyantu-nyantu-warij. Pirntiwiti-la-ma yanana nyantu-warij. Ngamangamayi-lu, jaju-ngku-ma nyarrulunguny-ju-ma nguyinangulu yuwanana ngamany-ja. Ngamany-ja nyarrulunguny-ja ngarlaka side kawarla-la-ma. Karru-nga yala-ma karu-ma makin-kaji talwak-marraj-parni.",
       "custom:sentenceTranslation": "This fish likes to sleep in the sun on its own. It swims along the side of the riverbank alone too. Mothers and grandmothers put the fish on the fontanel of babies when they're lying in their coolamons. The babies sleep like a sleepy cod then!",
       "custom:photographerName": "David Morgan",
       "custom:scientificName": "Oxyeleotris selheimi, Oxyeleotris lineolata",
@@ -348,7 +336,7 @@
         "@id": "files/audio/names/talwak_VW.mp3"
       },
       "custom:sentenceAudio": {
-        "@id": "files/audio/sentences/talwak_VW.mp3"
+        "@id": "files/audio/sentences/talwak.mp3"
       },
       "hasPart": [
         {
@@ -358,7 +346,7 @@
           "@id": "files/audio/names/talwak_VW.mp3"
         },
         {
-          "@id": "files/audio/sentences/talwak_VW.mp3"
+          "@id": "files/audio/sentences/talwak.mp3"
         }
       ]
     },
@@ -408,7 +396,7 @@
       "name": "mipirri",
       "datePublished": "2016-11-08 01:36:17",
       "custom:translation": "Mullet",
-      "custom:sentence": "Bank-kula yanana ngu, nyamu-wa paraj pungku. Mipirri-lu ngarnana janyja. Janya-wu-waji ngu. Ngulu ngarnani. Kula-rnalu manana hook-jawung.",
+      "custom:sentence": "Bank-kula yanana ngu, nyamu-wa paraj pungku. Mipirri-lu ngarnana janyja. Janya-wu-waji ngu. Ngulu ngarnani. [Kula-rnalu manana hook-jawung.]",
       "custom:sentenceTranslation": "Mullet swim along the side of riverbanks. That's where you spot them. They're dirt eaters but people used to eat them. You can't catch them with hooks.",
       "custom:photographerName": "Dave Wilson",
       "custom:scientificName": "Liza alata",
@@ -428,7 +416,7 @@
         "@id": "files/audio/names/mipirri_VW.mp3"
       },
       "custom:sentenceAudio": {
-        "@id": "files/audio/names/mipirri_VW.mp3"
+        "@id": "files/audio/sentences/mipirri_VW.mp3"
       },
       "hasPart": [
         {
@@ -508,7 +496,7 @@
         "@id": "files/images/kunpulu_DM.jpg"
       },
       "custom:nameAudio": {
-        "@id": "files/audio/sentences/kunpulu_VW.mp3"
+        "@id": "files/audio/names/kunpulu_VW.mp3"
       },
       "custom:sentenceAudio": {
         "@id": "files/audio/sentences/kunpulu_VW.mp3"
@@ -518,12 +506,10 @@
           "@id": "files/images/kunpulu_DM.jpg"
         },
         {
-          "@id": "files/audio/sentences/kunpulu_VW.mp3"
+          "@id": "files/audio/names/kunpulu_VW.mp3"
         },
         {
-          "@id": [
-            "files/audio/sentences/kunpulu_VW.mp3"
-          ]
+          "@id": "files/audio/sentences/kunpulu_VW.mp3"
         }
       ]
     },
@@ -807,6 +793,15 @@
       ]
     },
     {
+      "@id": "files/audio/sentences/puliny.mp3",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#puliny"
+        }
+      ]
+    },
+    {
       "@id": "files/images/jalarlka_MA&DM.jpg",
       "@type": "File",
       "isPartOf": [
@@ -925,15 +920,6 @@
       ]
     },
     {
-      "@id": "files/audio/sentences/tanyan_vw.mp3",
-      "@type": "File",
-      "isPartOf": [
-        {
-          "@id": "#tanyan"
-        }
-      ]
-    },
-    {
       "@id": "files/images/warlpi_DM&SV.jpg",
       "@type": "File",
       "isPartOf": [
@@ -944,15 +930,6 @@
     },
     {
       "@id": "files/audio/names/warlpi_VW.mp3",
-      "@type": "File",
-      "isPartOf": [
-        {
-          "@id": "#warlpi"
-        }
-      ]
-    },
-    {
-      "@id": "files/audio/sentences/warlpi_vw.mp3",
       "@type": "File",
       "isPartOf": [
         {
@@ -979,7 +956,7 @@
       ]
     },
     {
-      "@id": "files/audio/sentences/talwak_VW.mp3",
+      "@id": "files/audio/sentences/talwak.mp3",
       "@type": "File",
       "isPartOf": [
         {
@@ -1099,6 +1076,15 @@
     },
     {
       "@id": "files/images/kunpulu_DM.jpg",
+      "@type": "File",
+      "isPartOf": [
+        {
+          "@id": "#kunpulu"
+        }
+      ]
+    },
+    {
+      "@id": "files/audio/names/kunpulu_VW.mp3",
       "@type": "File",
       "isPartOf": [
         {
@@ -1278,28 +1264,12 @@
       ]
     },
     {
-      "@id": "files/audio/sentences/Wintuk_VW.mp3",
-      "@type": "File",
-      "isPartOf": {
-        "@id": "#puliny"
-      }
-    },
-    {
       "@id": [
         "files/audio/names/mipirri_VW.mp3"
       ],
       "@type": "File",
       "isPartOf": {
         "@id": "#mipirri"
-      }
-    },
-    {
-      "@id": [
-        "files/audio/sentences/kunpulu_VW.mp3"
-      ],
-      "@type": "File",
-      "isPartOf": {
-        "@id": "#kunpulu"
       }
     },
     {
